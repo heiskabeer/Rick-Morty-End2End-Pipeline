@@ -1,0 +1,827 @@
+id,name,image,specie,gender,origin,status,no_of_episodes
+1,Rick Sanchez,https://rickandmortyapi.com/api/character/avatar/1.jpeg,Human,Male,Earth (C-137),Alive,51
+2,Morty Smith,https://rickandmortyapi.com/api/character/avatar/2.jpeg,Human,Male,unknown,Alive,51
+3,Summer Smith,https://rickandmortyapi.com/api/character/avatar/3.jpeg,Human,Female,Earth (Replacement Dimension),Alive,42
+4,Beth Smith,https://rickandmortyapi.com/api/character/avatar/4.jpeg,Human,Female,Earth (Replacement Dimension),Alive,42
+5,Jerry Smith,https://rickandmortyapi.com/api/character/avatar/5.jpeg,Human,Male,Earth (Replacement Dimension),Alive,39
+6,Abadango Cluster Princess,https://rickandmortyapi.com/api/character/avatar/6.jpeg,Alien,Female,Abadango,Alive,1
+7,Abradolf Lincler,https://rickandmortyapi.com/api/character/avatar/7.jpeg,Human,Male,Earth (Replacement Dimension),unknown,2
+8,Adjudicator Rick,https://rickandmortyapi.com/api/character/avatar/8.jpeg,Human,Male,unknown,Dead,1
+9,Agency Director,https://rickandmortyapi.com/api/character/avatar/9.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+10,Alan Rails,https://rickandmortyapi.com/api/character/avatar/10.jpeg,Human,Male,unknown,Dead,1
+11,Albert Einstein,https://rickandmortyapi.com/api/character/avatar/11.jpeg,Human,Male,Earth (C-137),Dead,1
+12,Alexander,https://rickandmortyapi.com/api/character/avatar/12.jpeg,Human,Male,Earth (C-137),Dead,1
+13,Alien Googah,https://rickandmortyapi.com/api/character/avatar/13.jpeg,Alien,unknown,unknown,unknown,1
+14,Alien Morty,https://rickandmortyapi.com/api/character/avatar/14.jpeg,Alien,Male,unknown,unknown,1
+15,Alien Rick,https://rickandmortyapi.com/api/character/avatar/15.jpeg,Alien,Male,unknown,unknown,1
+16,Amish Cyborg,https://rickandmortyapi.com/api/character/avatar/16.jpeg,Alien,Male,unknown,Dead,1
+17,Annie,https://rickandmortyapi.com/api/character/avatar/17.jpeg,Human,Female,Earth (C-137),Alive,1
+18,Antenna Morty,https://rickandmortyapi.com/api/character/avatar/18.jpeg,Human,Male,unknown,Alive,2
+19,Antenna Rick,https://rickandmortyapi.com/api/character/avatar/19.jpeg,Human,Male,unknown,unknown,1
+20,Ants in my Eyes Johnson,https://rickandmortyapi.com/api/character/avatar/20.jpeg,Human,Male,unknown,unknown,1
+21,Aqua Morty,https://rickandmortyapi.com/api/character/avatar/21.jpeg,Humanoid,Male,unknown,unknown,2
+22,Aqua Rick,https://rickandmortyapi.com/api/character/avatar/22.jpeg,Humanoid,Male,unknown,unknown,3
+23,Arcade Alien,https://rickandmortyapi.com/api/character/avatar/23.jpeg,Alien,Male,unknown,unknown,5
+24,Armagheadon,https://rickandmortyapi.com/api/character/avatar/24.jpeg,Alien,Male,Signus 5 Expanse,Alive,1
+25,Armothy,https://rickandmortyapi.com/api/character/avatar/25.jpeg,unknown,Male,Post-Apocalyptic Earth,Dead,1
+26,Arthricia,https://rickandmortyapi.com/api/character/avatar/26.jpeg,Alien,Female,Purge Planet,Alive,1
+27,Artist Morty,https://rickandmortyapi.com/api/character/avatar/27.jpeg,Human,Male,unknown,Alive,2
+28,Attila Starwar,https://rickandmortyapi.com/api/character/avatar/28.jpeg,Human,Male,unknown,Alive,3
+29,Baby Legs,https://rickandmortyapi.com/api/character/avatar/29.jpeg,Human,Male,unknown,Alive,1
+30,Baby Poopybutthole,https://rickandmortyapi.com/api/character/avatar/30.jpeg,Poopybutthole,Male,unknown,Alive,1
+31,Baby Wizard,https://rickandmortyapi.com/api/character/avatar/31.jpeg,Alien,Male,unknown,Dead,1
+32,Bearded Lady,https://rickandmortyapi.com/api/character/avatar/32.jpeg,Alien,Female,unknown,Dead,1
+33,Beebo,https://rickandmortyapi.com/api/character/avatar/33.jpeg,Alien,Male,Venzenulon 7,Dead,1
+34,Benjamin,https://rickandmortyapi.com/api/character/avatar/34.jpeg,Poopybutthole,Male,unknown,Alive,3
+35,Bepisian,https://rickandmortyapi.com/api/character/avatar/35.jpeg,Alien,unknown,Bepis 9,Alive,4
+36,Beta-Seven,https://rickandmortyapi.com/api/character/avatar/36.jpeg,Alien,unknown,unknown,Alive,1
+37,Beth Sanchez,https://rickandmortyapi.com/api/character/avatar/37.jpeg,Human,Female,Earth (C-500A),Alive,1
+38,Beth Smith,https://rickandmortyapi.com/api/character/avatar/38.jpeg,Human,Female,Earth (C-137),Alive,8
+39,Beth Smith,https://rickandmortyapi.com/api/character/avatar/39.jpeg,Human,Female,Earth (Evil Rick's Target Dimension),Alive,1
+40,Beth's Mytholog,https://rickandmortyapi.com/api/character/avatar/40.jpeg,Mythological Creature,Female,Nuptia 4,Dead,1
+41,Big Boobed Waitress,https://rickandmortyapi.com/api/character/avatar/41.jpeg,Mythological Creature,Female,Fantasy World,Alive,1
+42,Big Head Morty,https://rickandmortyapi.com/api/character/avatar/42.jpeg,Human,Male,unknown,unknown,1
+43,Big Morty,https://rickandmortyapi.com/api/character/avatar/43.jpeg,Human,Male,unknown,Dead,1
+44,Body Guard Morty,https://rickandmortyapi.com/api/character/avatar/44.jpeg,Human,Male,unknown,Dead,1
+45,Bill,https://rickandmortyapi.com/api/character/avatar/45.jpeg,Human,Male,Earth (C-137),Alive,1
+46,Bill,https://rickandmortyapi.com/api/character/avatar/46.jpeg,Animal,Male,Earth (Replacement Dimension),unknown,1
+47,Birdperson,https://rickandmortyapi.com/api/character/avatar/47.jpeg,Alien,Male,Bird World,Alive,7
+48,Black Rick,https://rickandmortyapi.com/api/character/avatar/48.jpeg,Human,Male,unknown,Alive,2
+49,Blamph,https://rickandmortyapi.com/api/character/avatar/49.jpeg,Alien,unknown,unknown,Alive,1
+50,Blim Blam,https://rickandmortyapi.com/api/character/avatar/50.jpeg,Alien,Male,unknown,Alive,1
+51,Blue Diplomat,https://rickandmortyapi.com/api/character/avatar/51.jpeg,Alien,Male,unknown,Alive,1
+52,Blue Footprint Guy,https://rickandmortyapi.com/api/character/avatar/52.jpeg,Human,Male,Post-Apocalyptic Earth,Dead,1
+53,Blue Shirt Morty,https://rickandmortyapi.com/api/character/avatar/53.jpeg,Human,Male,unknown,unknown,1
+54,Bobby Moynihan,https://rickandmortyapi.com/api/character/avatar/54.jpeg,Human,Male,unknown,Alive,1
+55,Boobloosian,https://rickandmortyapi.com/api/character/avatar/55.jpeg,Alien,unknown,unknown,Dead,2
+56,Bootleg Portal Chemist Rick,https://rickandmortyapi.com/api/character/avatar/56.jpeg,Human,Male,unknown,Dead,1
+57,Borpocian,https://rickandmortyapi.com/api/character/avatar/57.jpeg,Alien,Male,unknown,Alive,1
+58,Brad,https://rickandmortyapi.com/api/character/avatar/58.jpeg,Human,Male,Earth (Replacement Dimension),Alive,4
+59,Brad Anderson,https://rickandmortyapi.com/api/character/avatar/59.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+60,Calypso,https://rickandmortyapi.com/api/character/avatar/60.jpeg,Human,Female,unknown,Dead,1
+61,Campaign Manager Morty,https://rickandmortyapi.com/api/character/avatar/61.jpeg,Human,Male,unknown,Dead,1
+62,Canklanker Thom,https://rickandmortyapi.com/api/character/avatar/62.jpeg,Alien,Male,Gromflom Prime,Dead,1
+63,Centaur,https://rickandmortyapi.com/api/character/avatar/63.jpeg,Mythological Creature,Male,unknown,Alive,1
+64,Chris,https://rickandmortyapi.com/api/character/avatar/64.jpeg,Alien,unknown,unknown,Dead,1
+65,Chris,https://rickandmortyapi.com/api/character/avatar/65.jpeg,Humanoid,Male,Rick's Battery Microverse,Alive,1
+66,Coach Feratu (Balik Alistane),https://rickandmortyapi.com/api/character/avatar/66.jpeg,Mythological Creature,Male,Earth (Replacement Dimension),Dead,1
+67,Collector,https://rickandmortyapi.com/api/character/avatar/67.jpeg,Alien,Male,The Menagerie,Alive,1
+68,Colossus,https://rickandmortyapi.com/api/character/avatar/68.jpeg,Human,Male,Post-Apocalyptic Earth,Dead,1
+69,Commander Rick,https://rickandmortyapi.com/api/character/avatar/69.jpeg,Human,Male,unknown,Dead,1
+70,Concerto,https://rickandmortyapi.com/api/character/avatar/70.jpeg,Humanoid,Male,unknown,Dead,1
+71,Conroy,https://rickandmortyapi.com/api/character/avatar/71.jpeg,Robot,unknown,Earth (Replacement Dimension),Dead,1
+72,Cool Rick,https://rickandmortyapi.com/api/character/avatar/72.jpeg,Human,Male,Earth (K-83),Alive,1
+73,Cop Morty,https://rickandmortyapi.com/api/character/avatar/73.jpeg,Human,Male,unknown,Dead,1
+74,Cop Rick,https://rickandmortyapi.com/api/character/avatar/74.jpeg,Human,Male,unknown,Alive,1
+75,Courier Flap,https://rickandmortyapi.com/api/character/avatar/75.jpeg,Alien,unknown,unknown,Alive,1
+76,Cousin Nicky,https://rickandmortyapi.com/api/character/avatar/76.jpeg,Alien,Male,unknown,Dead,1
+77,Cowboy Morty,https://rickandmortyapi.com/api/character/avatar/77.jpeg,Human,Male,unknown,Alive,1
+78,Cowboy Rick,https://rickandmortyapi.com/api/character/avatar/78.jpeg,Human,Male,unknown,Alive,2
+79,Crab Spider,https://rickandmortyapi.com/api/character/avatar/79.jpeg,Alien,unknown,Hideout Planet,Alive,1
+80,Creepy Little Girl,https://rickandmortyapi.com/api/character/avatar/80.jpeg,Human,Female,unknown,Alive,1
+81,Crocubot,https://rickandmortyapi.com/api/character/avatar/81.jpeg,Animal,Male,unknown,Dead,1
+82,Cronenberg Rick,https://rickandmortyapi.com/api/character/avatar/82.jpeg,Cronenberg,Male,Cronenberg Earth,unknown,2
+83,Cronenberg Morty,https://rickandmortyapi.com/api/character/avatar/83.jpeg,Cronenberg,Male,Cronenberg Earth,unknown,2
+84,Cult Leader Morty,https://rickandmortyapi.com/api/character/avatar/84.jpeg,Human,Male,unknown,Alive,1
+85,Cyclops Morty,https://rickandmortyapi.com/api/character/avatar/85.jpeg,Humanoid,Male,unknown,Alive,2
+86,Cyclops Rick,https://rickandmortyapi.com/api/character/avatar/86.jpeg,Humanoid,Male,unknown,Dead,3
+87,Cynthia,https://rickandmortyapi.com/api/character/avatar/87.jpeg,Alien,Female,unknown,Dead,1
+88,Cynthia,https://rickandmortyapi.com/api/character/avatar/88.jpeg,Human,Female,Earth (Replacement Dimension),Alive,4
+89,Dale,https://rickandmortyapi.com/api/character/avatar/89.jpeg,Mythological Creature,Male,Giant's Town,Dead,1
+90,Daron Jefferson,https://rickandmortyapi.com/api/character/avatar/90.jpeg,Alien,Male,Unity's Planet,Alive,1
+91,David Letterman,https://rickandmortyapi.com/api/character/avatar/91.jpeg,Human,Male,Earth (C-500A),Alive,1
+92,Davin,https://rickandmortyapi.com/api/character/avatar/92.jpeg,Human,Male,Earth (C-137),Dead,2
+93,Diablo Verde,https://rickandmortyapi.com/api/character/avatar/93.jpeg,Mythological Creature,Male,unknown,Dead,1
+94,Diane Sanchez,https://rickandmortyapi.com/api/character/avatar/94.jpeg,Human,Female,Earth (C-137),Dead,2
+95,Dipper and Mabel Mortys,https://rickandmortyapi.com/api/character/avatar/95.jpeg,Human,unknown,unknown,unknown,1
+96,Tuberculosis,https://rickandmortyapi.com/api/character/avatar/96.jpeg,Disease,unknown,Anatomy Park,Dead,1
+97,Gonorrhea,https://rickandmortyapi.com/api/character/avatar/97.jpeg,Disease,unknown,Anatomy Park,Dead,1
+98,Hepatitis A,https://rickandmortyapi.com/api/character/avatar/98.jpeg,Disease,unknown,Anatomy Park,Dead,1
+99,Hepatitis C,https://rickandmortyapi.com/api/character/avatar/99.jpeg,Disease,unknown,Anatomy Park,Dead,1
+100,Bubonic Plague,https://rickandmortyapi.com/api/character/avatar/100.jpeg,Disease,unknown,Anatomy Park,Dead,1
+101,E. Coli,https://rickandmortyapi.com/api/character/avatar/101.jpeg,Disease,unknown,Anatomy Park,Dead,1
+102,Donna Gueterman,https://rickandmortyapi.com/api/character/avatar/102.jpeg,Robot,Female,unknown,Dead,1
+103,Doofus Rick,https://rickandmortyapi.com/api/character/avatar/103.jpeg,Human,Male,Earth (J19ζ7),unknown,2
+104,Doom-Nomitron,https://rickandmortyapi.com/api/character/avatar/104.jpeg,Alien,unknown,unknown,Dead,1
+105,Dr. Glip-Glop,https://rickandmortyapi.com/api/character/avatar/105.jpeg,Alien,Male,unknown,Dead,1
+106,Dr. Schmidt,https://rickandmortyapi.com/api/character/avatar/106.jpeg,Human,Male,Roy: A Life Well Lived,unknown,1
+107,Dr. Wong,https://rickandmortyapi.com/api/character/avatar/107.jpeg,Human,Female,Earth (Replacement Dimension),Alive,2
+108,Dr. Xenon Bloom,https://rickandmortyapi.com/api/character/avatar/108.jpeg,Humanoid,Male,unknown,Dead,1
+109,Duck With Muscles,https://rickandmortyapi.com/api/character/avatar/109.jpeg,Alien,Male,unknown,Dead,1
+110,Eli,https://rickandmortyapi.com/api/character/avatar/110.jpeg,Human,Male,Post-Apocalyptic Earth,Alive,1
+111,Eli's Girlfriend,https://rickandmortyapi.com/api/character/avatar/111.jpeg,Human,Female,Post-Apocalyptic Earth,Alive,1
+112,Eric McMan,https://rickandmortyapi.com/api/character/avatar/112.jpeg,Human,Male,Earth (C-137),Alive,1
+113,Eric Stoltz Mask Morty,https://rickandmortyapi.com/api/character/avatar/113.jpeg,Human,Male,Eric Stoltz Mask Earth,unknown,1
+114,Ethan,https://rickandmortyapi.com/api/character/avatar/114.jpeg,Human,Male,Earth (C-137),unknown,1
+115,Ethan,https://rickandmortyapi.com/api/character/avatar/115.jpeg,Human,Male,Earth (Replacement Dimension),Alive,2
+116,Evil Beth Clone,https://rickandmortyapi.com/api/character/avatar/116.jpeg,Human,Female,unknown,Dead,1
+117,Evil Jerry Clone,https://rickandmortyapi.com/api/character/avatar/117.jpeg,Human,Male,unknown,Dead,1
+118,Evil Morty,https://rickandmortyapi.com/api/character/avatar/118.jpeg,Human,Male,unknown,Alive,3
+119,Evil Rick,https://rickandmortyapi.com/api/character/avatar/119.jpeg,Humanoid,Male,unknown,Dead,1
+120,Evil Summer Clone,https://rickandmortyapi.com/api/character/avatar/120.jpeg,Human,Female,unknown,Dead,1
+1,Rick Sanchez,https://rickandmortyapi.com/api/character/avatar/1.jpeg,Human,Male,Earth (C-137),Alive,51
+2,Morty Smith,https://rickandmortyapi.com/api/character/avatar/2.jpeg,Human,Male,unknown,Alive,51
+3,Summer Smith,https://rickandmortyapi.com/api/character/avatar/3.jpeg,Human,Female,Earth (Replacement Dimension),Alive,42
+4,Beth Smith,https://rickandmortyapi.com/api/character/avatar/4.jpeg,Human,Female,Earth (Replacement Dimension),Alive,42
+5,Jerry Smith,https://rickandmortyapi.com/api/character/avatar/5.jpeg,Human,Male,Earth (Replacement Dimension),Alive,39
+6,Abadango Cluster Princess,https://rickandmortyapi.com/api/character/avatar/6.jpeg,Alien,Female,Abadango,Alive,1
+7,Abradolf Lincler,https://rickandmortyapi.com/api/character/avatar/7.jpeg,Human,Male,Earth (Replacement Dimension),unknown,2
+8,Adjudicator Rick,https://rickandmortyapi.com/api/character/avatar/8.jpeg,Human,Male,unknown,Dead,1
+9,Agency Director,https://rickandmortyapi.com/api/character/avatar/9.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+10,Alan Rails,https://rickandmortyapi.com/api/character/avatar/10.jpeg,Human,Male,unknown,Dead,1
+11,Albert Einstein,https://rickandmortyapi.com/api/character/avatar/11.jpeg,Human,Male,Earth (C-137),Dead,1
+12,Alexander,https://rickandmortyapi.com/api/character/avatar/12.jpeg,Human,Male,Earth (C-137),Dead,1
+13,Alien Googah,https://rickandmortyapi.com/api/character/avatar/13.jpeg,Alien,unknown,unknown,unknown,1
+14,Alien Morty,https://rickandmortyapi.com/api/character/avatar/14.jpeg,Alien,Male,unknown,unknown,1
+15,Alien Rick,https://rickandmortyapi.com/api/character/avatar/15.jpeg,Alien,Male,unknown,unknown,1
+16,Amish Cyborg,https://rickandmortyapi.com/api/character/avatar/16.jpeg,Alien,Male,unknown,Dead,1
+17,Annie,https://rickandmortyapi.com/api/character/avatar/17.jpeg,Human,Female,Earth (C-137),Alive,1
+18,Antenna Morty,https://rickandmortyapi.com/api/character/avatar/18.jpeg,Human,Male,unknown,Alive,2
+19,Antenna Rick,https://rickandmortyapi.com/api/character/avatar/19.jpeg,Human,Male,unknown,unknown,1
+20,Ants in my Eyes Johnson,https://rickandmortyapi.com/api/character/avatar/20.jpeg,Human,Male,unknown,unknown,1
+1,Rick Sanchez,https://rickandmortyapi.com/api/character/avatar/1.jpeg,Human,Male,Earth (C-137),Alive,51
+2,Morty Smith,https://rickandmortyapi.com/api/character/avatar/2.jpeg,Human,Male,unknown,Alive,51
+3,Summer Smith,https://rickandmortyapi.com/api/character/avatar/3.jpeg,Human,Female,Earth (Replacement Dimension),Alive,42
+4,Beth Smith,https://rickandmortyapi.com/api/character/avatar/4.jpeg,Human,Female,Earth (Replacement Dimension),Alive,42
+5,Jerry Smith,https://rickandmortyapi.com/api/character/avatar/5.jpeg,Human,Male,Earth (Replacement Dimension),Alive,39
+6,Abadango Cluster Princess,https://rickandmortyapi.com/api/character/avatar/6.jpeg,Alien,Female,Abadango,Alive,1
+7,Abradolf Lincler,https://rickandmortyapi.com/api/character/avatar/7.jpeg,Human,Male,Earth (Replacement Dimension),unknown,2
+8,Adjudicator Rick,https://rickandmortyapi.com/api/character/avatar/8.jpeg,Human,Male,unknown,Dead,1
+9,Agency Director,https://rickandmortyapi.com/api/character/avatar/9.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+10,Alan Rails,https://rickandmortyapi.com/api/character/avatar/10.jpeg,Human,Male,unknown,Dead,1
+11,Albert Einstein,https://rickandmortyapi.com/api/character/avatar/11.jpeg,Human,Male,Earth (C-137),Dead,1
+12,Alexander,https://rickandmortyapi.com/api/character/avatar/12.jpeg,Human,Male,Earth (C-137),Dead,1
+13,Alien Googah,https://rickandmortyapi.com/api/character/avatar/13.jpeg,Alien,unknown,unknown,unknown,1
+14,Alien Morty,https://rickandmortyapi.com/api/character/avatar/14.jpeg,Alien,Male,unknown,unknown,1
+15,Alien Rick,https://rickandmortyapi.com/api/character/avatar/15.jpeg,Alien,Male,unknown,unknown,1
+16,Amish Cyborg,https://rickandmortyapi.com/api/character/avatar/16.jpeg,Alien,Male,unknown,Dead,1
+17,Annie,https://rickandmortyapi.com/api/character/avatar/17.jpeg,Human,Female,Earth (C-137),Alive,1
+18,Antenna Morty,https://rickandmortyapi.com/api/character/avatar/18.jpeg,Human,Male,unknown,Alive,2
+19,Antenna Rick,https://rickandmortyapi.com/api/character/avatar/19.jpeg,Human,Male,unknown,unknown,1
+20,Ants in my Eyes Johnson,https://rickandmortyapi.com/api/character/avatar/20.jpeg,Human,Male,unknown,unknown,1
+161,Hydrogen-F,https://rickandmortyapi.com/api/character/avatar/161.jpeg,Alien,Female,Alphabetrium,Alive,1
+162,Ice-T,https://rickandmortyapi.com/api/character/avatar/162.jpeg,Alien,Male,Alphabetrium,Alive,1
+163,Ideal Jerry,https://rickandmortyapi.com/api/character/avatar/163.jpeg,Mythological Creature,Male,Nuptia 4,Dead,1
+164,Insurance Rick,https://rickandmortyapi.com/api/character/avatar/164.jpeg,Human,Male,unknown,unknown,1
+165,Investigator Rick,https://rickandmortyapi.com/api/character/avatar/165.jpeg,Human,Male,unknown,Dead,1
+166,Invisi-trooper,https://rickandmortyapi.com/api/character/avatar/166.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+167,Izzy,https://rickandmortyapi.com/api/character/avatar/167.jpeg,Animal,unknown,Earth (Replacement Dimension),Alive,1
+168,Jackie,https://rickandmortyapi.com/api/character/avatar/168.jpeg,Alien,Female,Gazorpazorp,Alive,1
+169,Jacob,https://rickandmortyapi.com/api/character/avatar/169.jpeg,Human,Male,Earth (C-137),Alive,2
+170,Jacqueline,https://rickandmortyapi.com/api/character/avatar/170.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+171,Jaguar,https://rickandmortyapi.com/api/character/avatar/171.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+172,Jamey,https://rickandmortyapi.com/api/character/avatar/172.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+173,Jan-Michael Vincent,https://rickandmortyapi.com/api/character/avatar/173.jpeg,Human,Male,unknown,Alive,1
+174,Jerry 5-126,https://rickandmortyapi.com/api/character/avatar/174.jpeg,Human,Male,Earth (5-126),Alive,1
+175,Jerry Smith,https://rickandmortyapi.com/api/character/avatar/175.jpeg,Human,Male,Earth (C-137),Alive,7
+176,Celebrity Jerry,https://rickandmortyapi.com/api/character/avatar/176.jpeg,Human,Male,Earth (C-500A),Alive,1
+177,Jerry Smith,https://rickandmortyapi.com/api/character/avatar/177.jpeg,Human,Male,Earth (Evil Rick's Target Dimension),Alive,1
+178,Jerry's Mytholog,https://rickandmortyapi.com/api/character/avatar/178.jpeg,Mythological Creature,Male,Nuptia 4,Dead,1
+179,Jessica,https://rickandmortyapi.com/api/character/avatar/179.jpeg,Cronenberg,Female,Earth (C-137),Alive,3
+180,Jessica,https://rickandmortyapi.com/api/character/avatar/180.jpeg,Human,Female,Earth (Replacement Dimension),Alive,12
+181,Jessica's Friend,https://rickandmortyapi.com/api/character/avatar/181.jpeg,Human,Female,Earth (C-137),Alive,8
+182,Jim,https://rickandmortyapi.com/api/character/avatar/182.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+183,Johnny Depp,https://rickandmortyapi.com/api/character/avatar/183.jpeg,Human,Male,Earth (C-500A),Alive,1
+184,Jon,https://rickandmortyapi.com/api/character/avatar/184.jpeg,Alien,Male,Gazorpazorp,Alive,1
+185,Joseph Eli Lipkip,https://rickandmortyapi.com/api/character/avatar/185.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+186,Joyce Smith,https://rickandmortyapi.com/api/character/avatar/186.jpeg,Human,Female,Earth (C-137),Alive,1
+187,Juggling Rick,https://rickandmortyapi.com/api/character/avatar/187.jpeg,Human,Male,unknown,unknown,1
+188,Karen Entity,https://rickandmortyapi.com/api/character/avatar/188.jpeg,Alien,Female,Unity's Planet,Alive,1
+189,Katarina,https://rickandmortyapi.com/api/character/avatar/189.jpeg,Human,Female,Earth (Replacement Dimension),Dead,1
+190,Keara,https://rickandmortyapi.com/api/character/avatar/190.jpeg,Alien,Female,Krootabulon,Alive,1
+191,Kevin,https://rickandmortyapi.com/api/character/avatar/191.jpeg,Alien,Male,unknown,Dead,1
+192,King Flippy Nips,https://rickandmortyapi.com/api/character/avatar/192.jpeg,Alien,Male,Pluto,Alive,1
+193,King Jellybean,https://rickandmortyapi.com/api/character/avatar/193.jpeg,Mythological Creature,Male,Fantasy World,Dead,1
+194,Kozbian,https://rickandmortyapi.com/api/character/avatar/194.jpeg,Alien,unknown,unknown,Alive,1
+195,Kristen Stewart,https://rickandmortyapi.com/api/character/avatar/195.jpeg,Human,Female,Earth (C-500A),Alive,1
+196,Krombopulos Michael,https://rickandmortyapi.com/api/character/avatar/196.jpeg,Alien,Male,unknown,Dead,1
+197,Kyle,https://rickandmortyapi.com/api/character/avatar/197.jpeg,Humanoid,Male,Zeep Xanflorp's Miniverse,Dead,1
+198,Lady Katana,https://rickandmortyapi.com/api/character/avatar/198.jpeg,Humanoid,Female,unknown,Dead,1
+199,Larva Alien,https://rickandmortyapi.com/api/character/avatar/199.jpeg,Alien,unknown,Larva Alien's Planet,Alive,3
+200,Lawyer Morty,https://rickandmortyapi.com/api/character/avatar/200.jpeg,Human,Male,unknown,unknown,1
+201,Leonard Smith,https://rickandmortyapi.com/api/character/avatar/201.jpeg,Human,Male,Earth (C-137),Alive,1
+202,Lighthouse Keeper,https://rickandmortyapi.com/api/character/avatar/202.jpeg,Alien,Male,Purge Planet,Dead,1
+203,Lil B,https://rickandmortyapi.com/api/character/avatar/203.jpeg,Alien,Male,unknown,Dead,2
+204,Lisa,https://rickandmortyapi.com/api/character/avatar/204.jpeg,Alien,Female,unknown,Dead,1
+205,Little Dipper,https://rickandmortyapi.com/api/character/avatar/205.jpeg,Humanoid,Male,unknown,Alive,1
+206,Lizard Morty,https://rickandmortyapi.com/api/character/avatar/206.jpeg,Humanoid,Male,unknown,Alive,1
+207,Loggins,https://rickandmortyapi.com/api/character/avatar/207.jpeg,Alien,Male,unknown,Alive,3
+208,Logic,https://rickandmortyapi.com/api/character/avatar/208.jpeg,Human,Male,unknown,Alive,1
+209,Long Sleeved Morty,https://rickandmortyapi.com/api/character/avatar/209.jpeg,Human,Male,unknown,unknown,1
+210,Lucy,https://rickandmortyapi.com/api/character/avatar/210.jpeg,Human,Female,Earth (Replacement Dimension),Dead,1
+211,Ma-Sha,https://rickandmortyapi.com/api/character/avatar/211.jpeg,Alien,Female,Gazorpazorp,Alive,1
+212,Magma-Q,https://rickandmortyapi.com/api/character/avatar/212.jpeg,Alien,Male,Alphabetrium,Dead,1
+213,Magnesium-J,https://rickandmortyapi.com/api/character/avatar/213.jpeg,Alien,Male,Alphabetrium,Alive,1
+214,Man Painted Silver Who Makes Robot Noises,https://rickandmortyapi.com/api/character/avatar/214.jpeg,Human,Male,unknown,Alive,1
+215,Maximums Rickimus,https://rickandmortyapi.com/api/character/avatar/215.jpeg,Human,Male,unknown,Dead,3
+216,MC Haps,https://rickandmortyapi.com/api/character/avatar/216.jpeg,Human,Male,Earth (C-137),Alive,3
+217,Mechanical Morty,https://rickandmortyapi.com/api/character/avatar/217.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+218,Mechanical Rick,https://rickandmortyapi.com/api/character/avatar/218.jpeg,Robot,Male,Earth (Replacement Dimension),unknown,1
+219,Mechanical Summer,https://rickandmortyapi.com/api/character/avatar/219.jpeg,Robot,Female,Earth (Replacement Dimension),unknown,1
+220,Mega Fruit Farmer Rick,https://rickandmortyapi.com/api/character/avatar/220.jpeg,Human,Male,unknown,Alive,1
+221,Melissa,https://rickandmortyapi.com/api/character/avatar/221.jpeg,Mythological Creature,Female,Mr. Goldenfold's dream,Alive,1
+222,Michael Denny and the Denny Singers,https://rickandmortyapi.com/api/character/avatar/222.jpeg,Human,Male,unknown,Alive,1
+223,Michael Jenkins,https://rickandmortyapi.com/api/character/avatar/223.jpeg,Human,Male,unknown,Dead,1
+224,Michael McLick,https://rickandmortyapi.com/api/character/avatar/224.jpeg,Human,Male,unknown,Alive,1
+225,Michael Thompson,https://rickandmortyapi.com/api/character/avatar/225.jpeg,Humanoid,Male,unknown,Alive,1
+226,Million Ants,https://rickandmortyapi.com/api/character/avatar/226.jpeg,Animal,Male,unknown,Dead,1
+227,Mitch,https://rickandmortyapi.com/api/character/avatar/227.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+228,Mohawk Guy,https://rickandmortyapi.com/api/character/avatar/228.jpeg,Human,Male,Post-Apocalyptic Earth,Dead,1
+229,Morty Mart Manager Morty,https://rickandmortyapi.com/api/character/avatar/229.jpeg,Human,Male,unknown,Alive,1
+230,Morty Jr.,https://rickandmortyapi.com/api/character/avatar/230.jpeg,Humanoid,Male,Earth (Replacement Dimension),Alive,1
+231,Morty Rick,https://rickandmortyapi.com/api/character/avatar/231.jpeg,Human,Male,unknown,unknown,1
+232,Morty Smith,https://rickandmortyapi.com/api/character/avatar/232.jpeg,Human,Male,Earth (Evil Rick's Target Dimension),Alive,1
+233,Morty K-22,https://rickandmortyapi.com/api/character/avatar/233.jpeg,Human,Male,Earth (K-22),Alive,1
+234,Morty Smith,https://rickandmortyapi.com/api/character/avatar/234.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+235,Mortytown Loco,https://rickandmortyapi.com/api/character/avatar/235.jpeg,Human,Male,unknown,Dead,1
+236,Mr. Beauregard,https://rickandmortyapi.com/api/character/avatar/236.jpeg,Alien,Male,unknown,Dead,1
+237,Mr. Benson,https://rickandmortyapi.com/api/character/avatar/237.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+238,Mr. Booby Buyer,https://rickandmortyapi.com/api/character/avatar/238.jpeg,Mythological Creature,Male,Fantasy World,Alive,1
+239,Mr. Goldenfold,https://rickandmortyapi.com/api/character/avatar/239.jpeg,Cronenberg,Male,Earth (C-137),Alive,4
+240,Mr. Goldenfold,https://rickandmortyapi.com/api/character/avatar/240.jpeg,Human,Male,Earth (Replacement Dimension),Alive,10
+241,Mr. Marklovitz,https://rickandmortyapi.com/api/character/avatar/241.jpeg,Human,Male,Earth (C-137),Alive,2
+242,Mr. Meeseeks,https://rickandmortyapi.com/api/character/avatar/242.jpeg,Humanoid,Male,Mr. Meeseeks Box,unknown,5
+243,Mr. Needful,https://rickandmortyapi.com/api/character/avatar/243.jpeg,Humanoid,Male,unknown,Alive,1
+244,Mr. Poopybutthole,https://rickandmortyapi.com/api/character/avatar/244.jpeg,Poopybutthole,Male,unknown,Alive,7
+245,Mrs. Lipkip,https://rickandmortyapi.com/api/character/avatar/245.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+246,Mrs. Pancakes,https://rickandmortyapi.com/api/character/avatar/246.jpeg,Human,Female,Earth (C-137),Alive,2
+247,Amy Poopybutthole,https://rickandmortyapi.com/api/character/avatar/247.jpeg,Poopybutthole,Female,unknown,Alive,1
+248,Mrs. Refrigerator,https://rickandmortyapi.com/api/character/avatar/248.jpeg,Alien,Female,unknown,Dead,1
+249,Mrs. Sanchez,https://rickandmortyapi.com/api/character/avatar/249.jpeg,Human,Female,unknown,unknown,4
+250,Mrs. Sullivan,https://rickandmortyapi.com/api/character/avatar/250.jpeg,Human,Female,Earth (C-500A),Dead,1
+251,Nancy,https://rickandmortyapi.com/api/character/avatar/251.jpeg,Human,Female,Earth (Replacement Dimension),Alive,6
+252,Noob-Noob,https://rickandmortyapi.com/api/character/avatar/252.jpeg,Poopybutthole,Male,unknown,Alive,1
+253,Numbericon,https://rickandmortyapi.com/api/character/avatar/253.jpeg,Alien,unknown,unknown,unknown,1
+254,Octopus Man,https://rickandmortyapi.com/api/character/avatar/254.jpeg,Humanoid,Male,unknown,Alive,1
+255,Orthodox Jew,https://rickandmortyapi.com/api/character/avatar/255.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+256,Pat Gueterman,https://rickandmortyapi.com/api/character/avatar/256.jpeg,Robot,Male,unknown,Dead,1
+257,Paul Fleishman,https://rickandmortyapi.com/api/character/avatar/257.jpeg,Human,Male,unknown,Alive,1
+258,Pawnshop Clerk,https://rickandmortyapi.com/api/character/avatar/258.jpeg,Alien,Male,unknown,Alive,1
+259,Pencilvester,https://rickandmortyapi.com/api/character/avatar/259.jpeg,Alien,Male,unknown,Dead,1
+260,Phillip Jacobs,https://rickandmortyapi.com/api/character/avatar/260.jpeg,Human,Male,unknown,Alive,1
+261,Photography Cyborg,https://rickandmortyapi.com/api/character/avatar/261.jpeg,Robot,Male,unknown,unknown,1
+262,Photography Raptor,https://rickandmortyapi.com/api/character/avatar/262.jpeg,Alien,unknown,unknown,Dead,1
+263,Pibbles Bodyguard,https://rickandmortyapi.com/api/character/avatar/263.jpeg,Alien,Male,unknown,Alive,1
+264,Pichael Thompson,https://rickandmortyapi.com/api/character/avatar/264.jpeg,Humanoid,Male,unknown,Alive,1
+265,Pickle Rick,https://rickandmortyapi.com/api/character/avatar/265.jpeg,unknown,Male,Earth (C-137),Alive,1
+266,Piece of Toast,https://rickandmortyapi.com/api/character/avatar/266.jpeg,unknown,Genderless,unknown,Alive,2
+267,Plumber Rick,https://rickandmortyapi.com/api/character/avatar/267.jpeg,Human,Male,unknown,Alive,1
+268,Poncho,https://rickandmortyapi.com/api/character/avatar/268.jpeg,Human,Male,unknown,Dead,1
+269,Presidentress of The Mega Gargantuans,https://rickandmortyapi.com/api/character/avatar/269.jpeg,Humanoid,Female,Mega Gargantuan Kingdom,Alive,1
+270,Prince Nebulon,https://rickandmortyapi.com/api/character/avatar/270.jpeg,Alien,Male,unknown,Dead,1
+271,Principal Vagina,https://rickandmortyapi.com/api/character/avatar/271.jpeg,Cronenberg,Male,Earth (C-137),Alive,3
+272,Principal Vagina,https://rickandmortyapi.com/api/character/avatar/272.jpeg,Human,Male,Earth (Replacement Dimension),Alive,6
+273,Purge Planet Ruler,https://rickandmortyapi.com/api/character/avatar/273.jpeg,Alien,Male,Purge Planet,Dead,1
+274,Quantum Rick,https://rickandmortyapi.com/api/character/avatar/274.jpeg,Human,Male,unknown,unknown,3
+275,Randy Dicknose,https://rickandmortyapi.com/api/character/avatar/275.jpeg,Human,Male,unknown,Alive,1
+276,Rat Boss,https://rickandmortyapi.com/api/character/avatar/276.jpeg,Animal,unknown,Earth (Replacement Dimension),Dead,1
+277,Real Fake Doors Salesman,https://rickandmortyapi.com/api/character/avatar/277.jpeg,Human,Male,unknown,Alive,1
+278,Regional Manager Rick,https://rickandmortyapi.com/api/character/avatar/278.jpeg,Human,Male,unknown,Dead,1
+279,Regular Legs,https://rickandmortyapi.com/api/character/avatar/279.jpeg,Human,Male,unknown,Alive,1
+280,Reverse Giraffe,https://rickandmortyapi.com/api/character/avatar/280.jpeg,Alien,Male,unknown,Dead,1
+281,Reverse Rick Outrage,https://rickandmortyapi.com/api/character/avatar/281.jpeg,Human,Male,unknown,Dead,1
+282,Revolio Clockberg Jr.,https://rickandmortyapi.com/api/character/avatar/282.jpeg,Alien,Male,Gear World,unknown,3
+283,Rick D. Sanchez III,https://rickandmortyapi.com/api/character/avatar/283.jpeg,Human,Male,unknown,Dead,1
+284,Rick Guilt Rick,https://rickandmortyapi.com/api/character/avatar/284.jpeg,Human,Male,unknown,unknown,1
+285,Rick Prime,https://rickandmortyapi.com/api/character/avatar/285.jpeg,Human,Male,unknown,Dead,2
+286,Rick D-99,https://rickandmortyapi.com/api/character/avatar/286.jpeg,Human,Male,Earth (D-99),Dead,1
+287,Rick D716,https://rickandmortyapi.com/api/character/avatar/287.jpeg,Human,Male,Earth (D716),Dead,1
+288,Rick D716-B,https://rickandmortyapi.com/api/character/avatar/288.jpeg,Human,Male,Earth (D716-B),Alive,1
+289,Rick D716-C,https://rickandmortyapi.com/api/character/avatar/289.jpeg,Human,Male,Earth (D716-C),Alive,1
+290,Rick Sanchez,https://rickandmortyapi.com/api/character/avatar/290.jpeg,Human,Male,Earth (Evil Rick's Target Dimension),Dead,1
+291,Rick J-22,https://rickandmortyapi.com/api/character/avatar/291.jpeg,Human,Male,Earth (J-22),Alive,1
+292,Rick K-22,https://rickandmortyapi.com/api/character/avatar/292.jpeg,Human,Male,Earth (K-22),Alive,1
+293,Rick Sanchez,https://rickandmortyapi.com/api/character/avatar/293.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+294,Ricktiminus Sancheziminius,https://rickandmortyapi.com/api/character/avatar/294.jpeg,Human,Male,unknown,Dead,3
+295,Riq IV,https://rickandmortyapi.com/api/character/avatar/295.jpeg,Human,Male,unknown,Dead,3
+296,Risotto Groupon,https://rickandmortyapi.com/api/character/avatar/296.jpeg,Alien,Male,Resort Planet,Dead,1
+297,Risotto's Tentacled Henchman,https://rickandmortyapi.com/api/character/avatar/297.jpeg,Alien,Male,Resort Planet,Dead,1
+298,Robot Morty,https://rickandmortyapi.com/api/character/avatar/298.jpeg,Robot,Male,unknown,unknown,1
+299,Robot Rick,https://rickandmortyapi.com/api/character/avatar/299.jpeg,Robot,Male,unknown,unknown,1
+300,Roger,https://rickandmortyapi.com/api/character/avatar/300.jpeg,Human,Male,Earth (C-137),Dead,1
+301,Ron Benson,https://rickandmortyapi.com/api/character/avatar/301.jpeg,Alien,Male,Unity's Planet,Alive,1
+302,Ruben,https://rickandmortyapi.com/api/character/avatar/302.jpeg,Human,Male,Earth (C-137),Dead,1
+303,Samantha,https://rickandmortyapi.com/api/character/avatar/303.jpeg,Human,Female,Earth (C-137),Alive,1
+304,Scary Brandon,https://rickandmortyapi.com/api/character/avatar/304.jpeg,Mythological Creature,Male,Mr. Goldenfold's dream,Alive,1
+305,Scary Glenn,https://rickandmortyapi.com/api/character/avatar/305.jpeg,Mythological Creature,Male,Mr. Goldenfold's dream,Alive,1
+306,Scary Terry,https://rickandmortyapi.com/api/character/avatar/306.jpeg,Mythological Creature,Male,Mr. Goldenfold's dream,Alive,1
+307,Scroopy Noopers,https://rickandmortyapi.com/api/character/avatar/307.jpeg,Alien,Male,Pluto,Alive,1
+308,Scropon,https://rickandmortyapi.com/api/character/avatar/308.jpeg,Alien,Male,unknown,unknown,2
+309,Scrotian,https://rickandmortyapi.com/api/character/avatar/309.jpeg,Animal,Male,unknown,Alive,4
+310,Self-Congratulatory Jerry,https://rickandmortyapi.com/api/character/avatar/310.jpeg,Mythological Creature,Male,Nuptia 4,unknown,1
+311,Shimshamian,https://rickandmortyapi.com/api/character/avatar/311.jpeg,Alien,Male,unknown,Alive,3
+312,Shlaammi,https://rickandmortyapi.com/api/character/avatar/312.jpeg,Alien,unknown,unknown,Alive,1
+313,Shleemypants,https://rickandmortyapi.com/api/character/avatar/313.jpeg,unknown,Male,unknown,Alive,2
+314,Shmlamantha Shmlicelli,https://rickandmortyapi.com/api/character/avatar/314.jpeg,Human,Female,unknown,Alive,1
+315,Shmlangela Shmlobinson-Shmlower,https://rickandmortyapi.com/api/character/avatar/315.jpeg,Human,Female,unknown,Alive,1
+316,Shmlona Shmlobinson,https://rickandmortyapi.com/api/character/avatar/316.jpeg,Human,Female,unknown,Alive,1
+317,Shmlonathan Shmlower,https://rickandmortyapi.com/api/character/avatar/317.jpeg,Human,Male,unknown,Alive,1
+318,Shmlony Shmlicelli,https://rickandmortyapi.com/api/character/avatar/318.jpeg,Human,Male,unknown,Alive,1
+319,Shmooglite Runner,https://rickandmortyapi.com/api/character/avatar/319.jpeg,Alien,Male,Resort Planet,unknown,1
+320,Shnoopy Bloopers,https://rickandmortyapi.com/api/character/avatar/320.jpeg,Alien,Male,unknown,unknown,1
+321,Shrimply Pibbles,https://rickandmortyapi.com/api/character/avatar/321.jpeg,Alien,Male,unknown,Alive,1
+322,Simple Rick,https://rickandmortyapi.com/api/character/avatar/322.jpeg,Human,Male,unknown,Dead,1
+323,Slaveowner,https://rickandmortyapi.com/api/character/avatar/323.jpeg,Human,Male,Post-Apocalyptic Earth,Dead,1
+324,Sleepy Gary,https://rickandmortyapi.com/api/character/avatar/324.jpeg,Alien,Male,unknown,Dead,1
+325,Slick Morty,https://rickandmortyapi.com/api/character/avatar/325.jpeg,Human,Male,unknown,Dead,1
+326,Slippery Stair,https://rickandmortyapi.com/api/character/avatar/326.jpeg,Mythological Creature,Male,Fantasy World,Alive,2
+327,Slow Mobius,https://rickandmortyapi.com/api/character/avatar/327.jpeg,Humanoid,Male,unknown,Alive,1
+328,Slow Rick,https://rickandmortyapi.com/api/character/avatar/328.jpeg,Human,Male,unknown,Alive,1
+329,Snuffles (Snowball),https://rickandmortyapi.com/api/character/avatar/329.jpeg,Animal,Male,Earth (C-137),Alive,8
+330,Solicitor Rick,https://rickandmortyapi.com/api/character/avatar/330.jpeg,Human,Male,unknown,unknown,2
+331,Squanchy,https://rickandmortyapi.com/api/character/avatar/331.jpeg,Alien,Male,Planet Squanch,unknown,3
+332,Stacy,https://rickandmortyapi.com/api/character/avatar/332.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+333,Stair Goblin,https://rickandmortyapi.com/api/character/avatar/333.jpeg,Mythological Creature,Genderless,unknown,Alive,3
+334,Stealy,https://rickandmortyapi.com/api/character/avatar/334.jpeg,Poopybutthole,Male,unknown,Alive,1
+335,Steve,https://rickandmortyapi.com/api/character/avatar/335.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+336,Steven Phillips,https://rickandmortyapi.com/api/character/avatar/336.jpeg,Alien,Male,Unity's Planet,Alive,1
+337,Stu,https://rickandmortyapi.com/api/character/avatar/337.jpeg,Alien,Male,unknown,Dead,1
+338,Summer Smith,https://rickandmortyapi.com/api/character/avatar/338.jpeg,Human,Female,Earth (C-137),Alive,7
+339,Summer Smith,https://rickandmortyapi.com/api/character/avatar/339.jpeg,Human,Female,Earth (Evil Rick's Target Dimension),Alive,1
+340,Supernova,https://rickandmortyapi.com/api/character/avatar/340.jpeg,Human,Female,unknown,Alive,1
+341,Taddy Mason,https://rickandmortyapi.com/api/character/avatar/341.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+342,Taint Washer,https://rickandmortyapi.com/api/character/avatar/342.jpeg,Human,Male,Post-Apocalyptic Earth,Alive,1
+343,Tammy Guetermann,https://rickandmortyapi.com/api/character/avatar/343.jpeg,Cronenberg,Female,Earth (C-137),Alive,2
+344,Tammy Guetermann,https://rickandmortyapi.com/api/character/avatar/344.jpeg,Human,Female,Earth (Replacement Dimension),Dead,5
+345,Teacher Rick,https://rickandmortyapi.com/api/character/avatar/345.jpeg,Human,Male,unknown,Alive,1
+346,Terry,https://rickandmortyapi.com/api/character/avatar/346.jpeg,Human,Male,Earth (Replacement Dimension),unknown,1
+347,President Curtis,https://rickandmortyapi.com/api/character/avatar/347.jpeg,Human,Male,Earth (Replacement Dimension),Alive,5
+348,The President of the Miniverse,https://rickandmortyapi.com/api/character/avatar/348.jpeg,Humanoid,Male,Zeep Xanflorp's Miniverse,Dead,1
+349,The Scientist Formerly Known as Rick,https://rickandmortyapi.com/api/character/avatar/349.jpeg,Human,Male,unknown,Dead,1
+350,Thomas Lipkip,https://rickandmortyapi.com/api/character/avatar/350.jpeg,Human,Male,Earth (Replacement Dimension),unknown,1
+351,Three Unknown Things,https://rickandmortyapi.com/api/character/avatar/351.jpeg,Alien,unknown,unknown,Alive,1
+352,Tinkles,https://rickandmortyapi.com/api/character/avatar/352.jpeg,Alien,Female,unknown,Dead,1
+353,Tiny Rick,https://rickandmortyapi.com/api/character/avatar/353.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+354,Toby Matthews,https://rickandmortyapi.com/api/character/avatar/354.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+355,Todd Crystal,https://rickandmortyapi.com/api/character/avatar/355.jpeg,Alien,Male,Unity's Planet,Alive,1
+356,Tom Randolph,https://rickandmortyapi.com/api/character/avatar/356.jpeg,Human,Male,Earth (C-137),Alive,1
+357,Tommy's Clone,https://rickandmortyapi.com/api/character/avatar/357.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+358,Tophat Jones,https://rickandmortyapi.com/api/character/avatar/358.jpeg,Mythological Creature,Male,unknown,Dead,3
+359,Tortured Morty,https://rickandmortyapi.com/api/character/avatar/359.jpeg,Human,Male,unknown,unknown,1
+360,Toxic Morty,https://rickandmortyapi.com/api/character/avatar/360.jpeg,Humanoid,Male,Detoxifier,Dead,1
+361,Toxic Rick,https://rickandmortyapi.com/api/character/avatar/361.jpeg,Humanoid,Male,Detoxifier,Dead,1
+362,Traflorkian,https://rickandmortyapi.com/api/character/avatar/362.jpeg,Alien,unknown,unknown,Alive,5
+363,Trandor,https://rickandmortyapi.com/api/character/avatar/363.jpeg,Alien,Male,Krootabulon,Alive,1
+364,Tree Person,https://rickandmortyapi.com/api/character/avatar/364.jpeg,Humanoid,unknown,Kyle's Teenyverse,Dead,1
+365,Tricia Lange,https://rickandmortyapi.com/api/character/avatar/365.jpeg,Human,Female,Earth (Replacement Dimension),Alive,5
+366,Trunk Morty,https://rickandmortyapi.com/api/character/avatar/366.jpeg,Humanoid,Male,Trunk World,Alive,1
+367,Trunk Man,https://rickandmortyapi.com/api/character/avatar/367.jpeg,Humanoid,Male,Trunk World,Alive,2
+368,Truth Tortoise,https://rickandmortyapi.com/api/character/avatar/368.jpeg,Mythological Creature,Male,unknown,unknown,1
+369,Tusked Assassin,https://rickandmortyapi.com/api/character/avatar/369.jpeg,Alien,Male,Resort Planet,unknown,1
+370,Two Guys with Handlebar Mustaches,https://rickandmortyapi.com/api/character/avatar/370.jpeg,Human,Male,unknown,Alive,1
+371,Tumblorkian,https://rickandmortyapi.com/api/character/avatar/371.jpeg,Alien,Male,Plopstar,Alive,1
+372,Unity,https://rickandmortyapi.com/api/character/avatar/372.jpeg,Alien,Genderless,unknown,Alive,1
+373,Unmuscular Michael,https://rickandmortyapi.com/api/character/avatar/373.jpeg,Human,Male,unknown,Alive,1
+374,Vampire Master,https://rickandmortyapi.com/api/character/avatar/374.jpeg,Mythological Creature,Male,Earth (Replacement Dimension),Alive,1
+375,Vance Maximus,https://rickandmortyapi.com/api/character/avatar/375.jpeg,Human,Male,unknown,Dead,1
+376,Veronica Ann Bennet,https://rickandmortyapi.com/api/character/avatar/376.jpeg,Alien,Female,Gazorpazorp,Alive,1
+377,Voltematron,https://rickandmortyapi.com/api/character/avatar/377.jpeg,Alien,unknown,unknown,Dead,1
+378,Wall Crawling Rick,https://rickandmortyapi.com/api/character/avatar/378.jpeg,Humanoid,Male,unknown,unknown,1
+379,Wedding Bartender,https://rickandmortyapi.com/api/character/avatar/379.jpeg,Alien,Male,unknown,unknown,1
+380,Unknown Rick,https://rickandmortyapi.com/api/character/avatar/380.jpeg,Human,Male,unknown,unknown,2
+381,Woman Rick,https://rickandmortyapi.com/api/character/avatar/381.jpeg,Alien,Female,unknown,Alive,1
+382,Worldender,https://rickandmortyapi.com/api/character/avatar/382.jpeg,Alien,Male,unknown,Dead,1
+383,Yaarb,https://rickandmortyapi.com/api/character/avatar/383.jpeg,Alien,Male,unknown,Alive,1
+384,Yellow Headed Doctor,https://rickandmortyapi.com/api/character/avatar/384.jpeg,Alien,Male,unknown,Alive,1
+385,Yellow Shirt Rick,https://rickandmortyapi.com/api/character/avatar/385.jpeg,Human,Male,unknown,unknown,1
+386,Zarbadar Gloonch,https://rickandmortyapi.com/api/character/avatar/386.jpeg,Alien,Female,unknown,Dead,2
+387,Zarbadar's Mytholog,https://rickandmortyapi.com/api/character/avatar/387.jpeg,Mythological Creature,Female,Nuptia 4,unknown,1
+388,Zeep Xanflorp,https://rickandmortyapi.com/api/character/avatar/388.jpeg,Humanoid,Male,Rick's Battery Microverse,Alive,1
+389,Zeta Alpha Rick,https://rickandmortyapi.com/api/character/avatar/389.jpeg,Human,Male,unknown,Dead,4
+390,Zick Zack,https://rickandmortyapi.com/api/character/avatar/390.jpeg,Alien,Male,unknown,Dead,1
+391,Uncle Steve,https://rickandmortyapi.com/api/character/avatar/391.jpeg,Alien,Male,unknown,Dead,1
+392,Bearded Morty,https://rickandmortyapi.com/api/character/avatar/392.jpeg,Human,Male,unknown,Alive,2
+393,Roy,https://rickandmortyapi.com/api/character/avatar/393.jpeg,Human,Male,Roy: A Life Well Lived,Alive,1
+394,Davin,https://rickandmortyapi.com/api/character/avatar/394.jpeg,Cronenberg,Male,Earth (C-137),Dead,2
+395,Greebybobe,https://rickandmortyapi.com/api/character/avatar/395.jpeg,Alien,unknown,Girvonesk,Alive,4
+396,Scary Teacher,https://rickandmortyapi.com/api/character/avatar/396.jpeg,Mythological Creature,Male,Mr. Goldenfold's dream,Alive,1
+397,Fido,https://rickandmortyapi.com/api/character/avatar/397.jpeg,Animal,Male,Snuffles' Dream,Alive,1
+398,Accountant dog,https://rickandmortyapi.com/api/character/avatar/398.jpeg,Animal,Male,Snuffles' Dream,Alive,1
+399,Tiny-persons advocacy group lawyer,https://rickandmortyapi.com/api/character/avatar/399.jpeg,Mythological Creature,Male,Giant's Town,Alive,1
+400,Giant Judge,https://rickandmortyapi.com/api/character/avatar/400.jpeg,Mythological Creature,Male,Giant's Town,Alive,1
+401,Morty Jr's interviewer,https://rickandmortyapi.com/api/character/avatar/401.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+402,Guy from The Bachelor,https://rickandmortyapi.com/api/character/avatar/402.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+403,Corn detective,https://rickandmortyapi.com/api/character/avatar/403.jpeg,Humanoid,Male,Interdimensional Cable,Dead,1
+404,Michael Jackson,https://rickandmortyapi.com/api/character/avatar/404.jpeg,Humanoid,Male,Earth (Phone Dimension),Alive,1
+405,Trunkphobic suspenders guy,https://rickandmortyapi.com/api/character/avatar/405.jpeg,Human,Male,unknown,Alive,4
+406,Spiderweb teddy bear,https://rickandmortyapi.com/api/character/avatar/406.jpeg,Animal,unknown,Interdimensional Cable,Alive,1
+407,Regular Tyrion Lannister,https://rickandmortyapi.com/api/character/avatar/407.jpeg,Human,Male,Interdimensional Cable,Alive,1
+408,Quick Mystery Presenter,https://rickandmortyapi.com/api/character/avatar/408.jpeg,Human,Male,Interdimensional Cable,Alive,1
+409,Mr. Sneezy,https://rickandmortyapi.com/api/character/avatar/409.jpeg,Human,Male,Interdimensional Cable,Alive,1
+410,Two Brothers,https://rickandmortyapi.com/api/character/avatar/410.jpeg,Human,Male,Interdimensional Cable,Alive,1
+411,Alien Mexican Armada,https://rickandmortyapi.com/api/character/avatar/411.jpeg,Alien,Male,Interdimensional Cable,unknown,1
+412,Giant Cat Monster,https://rickandmortyapi.com/api/character/avatar/412.jpeg,Animal,unknown,Interdimensional Cable,unknown,1
+413,Old Women,https://rickandmortyapi.com/api/character/avatar/413.jpeg,Human,Female,Interdimensional Cable,unknown,1
+414,Trunkphobic guy,https://rickandmortyapi.com/api/character/avatar/414.jpeg,Human,Male,Interdimensional Cable,Alive,1
+415,Pro trunk people marriage guy,https://rickandmortyapi.com/api/character/avatar/415.jpeg,Human,Male,Interdimensional Cable,Alive,1
+416,Muscular Mannie,https://rickandmortyapi.com/api/character/avatar/416.jpeg,Human,Male,Interdimensional Cable,Alive,1
+417,Baby Legs Chief,https://rickandmortyapi.com/api/character/avatar/417.jpeg,Human,Male,Interdimensional Cable,Alive,1
+418,Mrs. Sullivan's Boyfriend,https://rickandmortyapi.com/api/character/avatar/418.jpeg,Human,Male,Interdimensional Cable,Alive,1
+419,Plutonian Hostess,https://rickandmortyapi.com/api/character/avatar/419.jpeg,Alien,Female,Pluto,Alive,1
+420,Plutonian Host,https://rickandmortyapi.com/api/character/avatar/420.jpeg,Alien,Male,Pluto,Alive,1
+421,Rich Plutonian,https://rickandmortyapi.com/api/character/avatar/421.jpeg,Alien,Female,Pluto,Alive,1
+422,Rich Plutonian,https://rickandmortyapi.com/api/character/avatar/422.jpeg,Alien,Male,Pluto,Alive,1
+423,Synthetic Laser Eels,https://rickandmortyapi.com/api/character/avatar/423.jpeg,Animal,unknown,Earth (Replacement Dimension),Alive,1
+424,Pizza-person,https://rickandmortyapi.com/api/character/avatar/424.jpeg,Humanoid,Male,Earth (Pizza Dimension),Alive,1
+425,Pizza-person,https://rickandmortyapi.com/api/character/avatar/425.jpeg,Humanoid,Male,Earth (Pizza Dimension),Alive,1
+426,Greasy Grandma,https://rickandmortyapi.com/api/character/avatar/426.jpeg,Human,Female,Greasy Grandma World,Alive,1
+427,Phone-person,https://rickandmortyapi.com/api/character/avatar/427.jpeg,Humanoid,Male,Earth (Phone Dimension),Alive,1
+428,Phone-person,https://rickandmortyapi.com/api/character/avatar/428.jpeg,Humanoid,Male,Earth (Phone Dimension),Alive,1
+429,Chair-person,https://rickandmortyapi.com/api/character/avatar/429.jpeg,Humanoid,Male,Earth (Chair Dimension),Alive,1
+430,Chair-person,https://rickandmortyapi.com/api/character/avatar/430.jpeg,Humanoid,Male,Earth (Chair Dimension),Alive,1
+431,Chair-homeless,https://rickandmortyapi.com/api/character/avatar/431.jpeg,Humanoid,Male,Earth (Chair Dimension),Alive,1
+432,Chair-waiter,https://rickandmortyapi.com/api/character/avatar/432.jpeg,Humanoid,Male,Earth (Chair Dimension),Alive,1
+433,Doopidoo,https://rickandmortyapi.com/api/character/avatar/433.jpeg,Animal,unknown,unknown,Alive,1
+434,Super Weird Rick,https://rickandmortyapi.com/api/character/avatar/434.jpeg,Human,Male,unknown,unknown,1
+435,Pripudlian,https://rickandmortyapi.com/api/character/avatar/435.jpeg,Alien,unknown,unknown,Alive,4
+436,Giant Testicle Monster,https://rickandmortyapi.com/api/character/avatar/436.jpeg,Alien,unknown,Testicle Monster Dimension,Alive,2
+437,Michael,https://rickandmortyapi.com/api/character/avatar/437.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+438,Michael's Lawyer,https://rickandmortyapi.com/api/character/avatar/438.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+439,Veterinary,https://rickandmortyapi.com/api/character/avatar/439.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+440,Veterinary Nurse,https://rickandmortyapi.com/api/character/avatar/440.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+441,Bearded Jerry,https://rickandmortyapi.com/api/character/avatar/441.jpeg,Human,Male,unknown,Alive,1
+442,Shaved Head Jerry,https://rickandmortyapi.com/api/character/avatar/442.jpeg,Human,Male,unknown,Alive,1
+443,Tank Top Jerry,https://rickandmortyapi.com/api/character/avatar/443.jpeg,Human,Male,unknown,Alive,1
+444,Pink Polo Shirt Jerry,https://rickandmortyapi.com/api/character/avatar/444.jpeg,Human,Male,unknown,Alive,1
+445,Jerryboree Keeper,https://rickandmortyapi.com/api/character/avatar/445.jpeg,Alien,Female,unknown,Alive,1
+446,Jerryboree Receptionist,https://rickandmortyapi.com/api/character/avatar/446.jpeg,Alien,Male,unknown,Alive,1
+447,Anchor Gear,https://rickandmortyapi.com/api/character/avatar/447.jpeg,Alien,Male,Gear World,Alive,1
+448,Gear Cop,https://rickandmortyapi.com/api/character/avatar/448.jpeg,Alien,Male,Gear World,Dead,1
+449,Roy's Mum,https://rickandmortyapi.com/api/character/avatar/449.jpeg,Human,Female,Roy: A Life Well Lived,Alive,1
+450,Roy's Wife,https://rickandmortyapi.com/api/character/avatar/450.jpeg,Human,Male,Roy: A Life Well Lived,Alive,1
+451,Roy's Son,https://rickandmortyapi.com/api/character/avatar/451.jpeg,Human,Male,Roy: A Life Well Lived,Alive,1
+452,Simon,https://rickandmortyapi.com/api/character/avatar/452.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+453,Vampire Master's Assistant,https://rickandmortyapi.com/api/character/avatar/453.jpeg,Mythological Creature,Male,unknown,Alive,1
+454,Arbolian Mentirososian,https://rickandmortyapi.com/api/character/avatar/454.jpeg,Alien,unknown,Árboles Mentirosos,Alive,3
+455,St. Gloopy Noops Nurse,https://rickandmortyapi.com/api/character/avatar/455.jpeg,Alien,Female,unknown,Alive,1
+456,Nano Doctor,https://rickandmortyapi.com/api/character/avatar/456.jpeg,Alien,Male,unknown,Alive,1
+457,Funny Songs Presenter,https://rickandmortyapi.com/api/character/avatar/457.jpeg,Human,Male,unknown,Alive,1
+458,Tax Attorney,https://rickandmortyapi.com/api/character/avatar/458.jpeg,Human,Male,unknown,unknown,1
+459,Butthole Ice Cream Guy,https://rickandmortyapi.com/api/character/avatar/459.jpeg,Alien,Male,unknown,Alive,1
+460,Traflorkian Journalist,https://rickandmortyapi.com/api/character/avatar/460.jpeg,Alien,Male,unknown,Alive,1
+461,Communication's Responsible Rick,https://rickandmortyapi.com/api/character/avatar/461.jpeg,Human,Male,unknown,Dead,1
+462,Teleportation's Responsible Rick,https://rickandmortyapi.com/api/character/avatar/462.jpeg,Human,Male,unknown,unknown,1
+463,SEAL Team Rick,https://rickandmortyapi.com/api/character/avatar/463.jpeg,Human,Male,unknown,Dead,1
+464,SEAL Team Rick,https://rickandmortyapi.com/api/character/avatar/464.jpeg,Human,Male,unknown,Dead,1
+465,SEAL Team Rick,https://rickandmortyapi.com/api/character/avatar/465.jpeg,Human,Male,unknown,Dead,1
+466,SEAL Team Rick,https://rickandmortyapi.com/api/character/avatar/466.jpeg,Human,Male,unknown,Dead,1
+467,Morphizer-XE Customer Support,https://rickandmortyapi.com/api/character/avatar/467.jpeg,Alien,Male,unknown,Alive,1
+468,Morphizer-XE Customer Support,https://rickandmortyapi.com/api/character/avatar/468.jpeg,Alien,Male,unknown,Alive,1
+469,Morphizer-XE Customer Support,https://rickandmortyapi.com/api/character/avatar/469.jpeg,Alien,Male,unknown,unknown,1
+470,Alien Spa Employee,https://rickandmortyapi.com/api/character/avatar/470.jpeg,Alien,Male,unknown,Alive,1
+471,Little Voltron,https://rickandmortyapi.com/api/character/avatar/471.jpeg,Robot,Genderless,unknown,Alive,1
+472,Baby Rick,https://rickandmortyapi.com/api/character/avatar/472.jpeg,Human,Male,Citadel of Ricks,Alive,1
+473,Bartender Morty,https://rickandmortyapi.com/api/character/avatar/473.jpeg,Human,Male,unknown,Alive,1
+474,Dancer Cowboy Morty,https://rickandmortyapi.com/api/character/avatar/474.jpeg,Human,Male,unknown,Alive,1
+475,Dancer Morty,https://rickandmortyapi.com/api/character/avatar/475.jpeg,Human,Male,unknown,Alive,1
+476,Flower Morty,https://rickandmortyapi.com/api/character/avatar/476.jpeg,Human,Male,unknown,Alive,1
+477,Hairdresser Rick,https://rickandmortyapi.com/api/character/avatar/477.jpeg,Human,Male,unknown,Alive,1
+478,Journalist Rick,https://rickandmortyapi.com/api/character/avatar/478.jpeg,Human,Male,unknown,Alive,1
+479,Private Sector Rick,https://rickandmortyapi.com/api/character/avatar/479.jpeg,Human,Male,unknown,Dead,1
+480,Purple Morty,https://rickandmortyapi.com/api/character/avatar/480.jpeg,Alien,Male,unknown,Alive,1
+481,Retired General Rick,https://rickandmortyapi.com/api/character/avatar/481.jpeg,Human,Male,unknown,unknown,1
+482,Secret Service Rick,https://rickandmortyapi.com/api/character/avatar/482.jpeg,Human,Male,unknown,Alive,1
+483,Steve Jobs Rick,https://rickandmortyapi.com/api/character/avatar/483.jpeg,Human,Male,unknown,Alive,1
+484,Sheik Rick,https://rickandmortyapi.com/api/character/avatar/484.jpeg,Human,Male,unknown,Dead,1
+485,Modern Rick,https://rickandmortyapi.com/api/character/avatar/485.jpeg,Human,Male,unknown,Alive,1
+486,Tan Rick,https://rickandmortyapi.com/api/character/avatar/486.jpeg,Human,Male,unknown,Dead,1
+487,Visor Rick,https://rickandmortyapi.com/api/character/avatar/487.jpeg,Human,Male,unknown,Dead,1
+488,Colonial Rick,https://rickandmortyapi.com/api/character/avatar/488.jpeg,Human,Male,unknown,Dead,1
+489,P-Coat Rick,https://rickandmortyapi.com/api/character/avatar/489.jpeg,Human,Male,unknown,Dead,1
+490,Chang,https://rickandmortyapi.com/api/character/avatar/490.jpeg,Human,Male,unknown,Alive,1
+491,Dr. Eleanor Arroway,https://rickandmortyapi.com/api/character/avatar/491.jpeg,Human,Female,unknown,Alive,1
+492,Varrix,https://rickandmortyapi.com/api/character/avatar/492.jpeg,Alien,unknown,unknown,Alive,1
+493,Secretary of the Interior,https://rickandmortyapi.com/api/character/avatar/493.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+494,Crystal Poacher,https://rickandmortyapi.com/api/character/avatar/494.jpeg,Alien,Male,unknown,Dead,1
+495,Crystal Poacher,https://rickandmortyapi.com/api/character/avatar/495.jpeg,Alien,Male,unknown,Dead,1
+496,Crystal Poacher,https://rickandmortyapi.com/api/character/avatar/496.jpeg,Alien,Male,unknown,Dead,1
+497,Hologram Rick,https://rickandmortyapi.com/api/character/avatar/497.jpeg,Humanoid,Male,Earth (Replacement Dimension),Dead,1
+498,Fascist Rick,https://rickandmortyapi.com/api/character/avatar/498.jpeg,Human,Male,Earth (Fascist Dimension),Dead,1
+499,Fascist Morty,https://rickandmortyapi.com/api/character/avatar/499.jpeg,Human,Male,Earth (Fascist Dimension),Dead,1
+500,Fascist Mr. President,https://rickandmortyapi.com/api/character/avatar/500.jpeg,Human,Male,Earth (Fascist Dimension),Alive,1
+501,Fascist Rick’s Clone,https://rickandmortyapi.com/api/character/avatar/501.jpeg,Human,Male,Earth (Fascist Dimension),Dead,1
+502,Revolio Clockberg Jr.,https://rickandmortyapi.com/api/character/avatar/502.jpeg,Alien,Male,Earth (Fascist Dimension),Dead,1
+503,Fascist Shrimp Rick,https://rickandmortyapi.com/api/character/avatar/503.jpeg,Animal,Male,Earth (Fascist Shrimp Dimension),Alive,1
+504,Fascist Shrimp Rick’s Clone,https://rickandmortyapi.com/api/character/avatar/504.jpeg,Animal,Male,Earth (Fascist Shrimp Dimension),Dead,1
+505,Fascist Shrimp Morty,https://rickandmortyapi.com/api/character/avatar/505.jpeg,Animal,Male,Earth (Fascist Shrimp Dimension),Alive,1
+506,Fascist Shrimp SS,https://rickandmortyapi.com/api/character/avatar/506.jpeg,Animal,Male,Earth (Fascist Shrimp Dimension),Alive,1
+507,Fascist Teddy Bear Rick,https://rickandmortyapi.com/api/character/avatar/507.jpeg,Animal,Male,Earth (Fascist Teddy Bear Dimension),Alive,1
+508,Fascist Teddy Bear Rick’s Clone,https://rickandmortyapi.com/api/character/avatar/508.jpeg,Animal,Male,Earth (Fascist Teddy Bear Dimension),Dead,1
+509,Bully,https://rickandmortyapi.com/api/character/avatar/509.jpeg,Human,Male,Earth (Replacement Dimension),unknown,1
+510,Anchorman,https://rickandmortyapi.com/api/character/avatar/510.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+511,Anchorwoman,https://rickandmortyapi.com/api/character/avatar/511.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+512,Morty’s Lawyer,https://rickandmortyapi.com/api/character/avatar/512.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+513,Judge,https://rickandmortyapi.com/api/character/avatar/513.jpeg,Human,Female,Earth (Replacement Dimension),Dead,1
+514,Public Opinion Judge,https://rickandmortyapi.com/api/character/avatar/514.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+515,Caterpillar Mr. Goldenfold,https://rickandmortyapi.com/api/character/avatar/515.jpeg,Animal,Male,Earth (Wasp Dimension),Dead,1
+516,Wasp Rick,https://rickandmortyapi.com/api/character/avatar/516.jpeg,Animal,Male,Earth (Wasp Dimension),Alive,1
+517,Wasp Rick’s Clone,https://rickandmortyapi.com/api/character/avatar/517.jpeg,Animal,Male,Earth (Wasp Dimension),unknown,1
+518,Wasp Morty,https://rickandmortyapi.com/api/character/avatar/518.jpeg,Animal,Male,Earth (Wasp Dimension),Alive,1
+519,Wasp Summer,https://rickandmortyapi.com/api/character/avatar/519.jpeg,Animal,Female,Earth (Wasp Dimension),Alive,1
+520,Wasp Jerry,https://rickandmortyapi.com/api/character/avatar/520.jpeg,Animal,Male,Earth (Wasp Dimension),Alive,1
+521,Wasp Beth,https://rickandmortyapi.com/api/character/avatar/521.jpeg,Animal,Female,Earth (Wasp Dimension),Alive,1
+522,Caterpillar Mr. Goldenfold’s Larvae,https://rickandmortyapi.com/api/character/avatar/522.jpeg,Animal,unknown,Earth (Wasp Dimension),Dead,1
+523,Boglin,https://rickandmortyapi.com/api/character/avatar/523.jpeg,unknown,unknown,Earth (Replacement Dimension),unknown,1
+524,Kirkland Brand Mr. Meeseeks,https://rickandmortyapi.com/api/character/avatar/524.jpeg,Humanoid,Male,Mr. Meeseeks Box,unknown,1
+525,Glootie,https://rickandmortyapi.com/api/character/avatar/525.jpeg,Alien,Male,unknown,Alive,1
+526,Danny Publitz,https://rickandmortyapi.com/api/character/avatar/526.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+527,Mothership Intern,https://rickandmortyapi.com/api/character/avatar/527.jpeg,Alien,Male,unknown,Alive,1
+528,Monogatron Leader,https://rickandmortyapi.com/api/character/avatar/528.jpeg,Alien,Male,unknown,Alive,1
+529,Lizard,https://rickandmortyapi.com/api/character/avatar/529.jpeg,Alien,Male,Midland Quasar,Dead,1
+530,Deliverance,https://rickandmortyapi.com/api/character/avatar/530.jpeg,Robot,Genderless,Midland Quasar,Dead,1
+531,Tony,https://rickandmortyapi.com/api/character/avatar/531.jpeg,Alien,Male,unknown,Dead,1
+532,Tony’s Wife,https://rickandmortyapi.com/api/character/avatar/532.jpeg,Alien,Female,Globaflyn,Dead,1
+533,Monogatron Queen,https://rickandmortyapi.com/api/character/avatar/533.jpeg,Alien,Female,unknown,Alive,1
+534,Tony's Dad,https://rickandmortyapi.com/api/character/avatar/534.jpeg,Alien,Male,unknown,Alive,1
+535,Jeff,https://rickandmortyapi.com/api/character/avatar/535.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+536,Josiah,https://rickandmortyapi.com/api/character/avatar/536.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+537,Maggie,https://rickandmortyapi.com/api/character/avatar/537.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+538,Priest Witherspoon,https://rickandmortyapi.com/api/character/avatar/538.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+539,Richard,https://rickandmortyapi.com/api/character/avatar/539.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+540,Running Bird,https://rickandmortyapi.com/api/character/avatar/540.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+541,Secretary at Tony's,https://rickandmortyapi.com/api/character/avatar/541.jpeg,Alien,Female,unknown,Alive,1
+542,Mountain Sweat Jerry,https://rickandmortyapi.com/api/character/avatar/542.jpeg,Human,Male,Globaflyn,Alive,1
+543,Vermigurber,https://rickandmortyapi.com/api/character/avatar/543.jpeg,Alien,Male,unknown,Alive,1
+544,Miles Knightly,https://rickandmortyapi.com/api/character/avatar/544.jpeg,Alien,Male,unknown,Dead,1
+545,Heist-Con Receptionist,https://rickandmortyapi.com/api/character/avatar/545.jpeg,Alien,Female,unknown,Alive,1
+546,Angie Flint,https://rickandmortyapi.com/api/character/avatar/546.jpeg,Human,Female,unknown,Alive,1
+547,Glar,https://rickandmortyapi.com/api/character/avatar/547.jpeg,Alien,Male,unknown,Alive,1
+548,Truckula,https://rickandmortyapi.com/api/character/avatar/548.jpeg,Mythological Creature,Male,unknown,Alive,1
+549,Snake Arms,https://rickandmortyapi.com/api/character/avatar/549.jpeg,Alien,Male,unknown,Alive,1
+550,Double Microwawe,https://rickandmortyapi.com/api/character/avatar/550.jpeg,Humanoid,Male,unknown,Alive,1
+551,Monitor Lord,https://rickandmortyapi.com/api/character/avatar/551.jpeg,Alien,Male,unknown,Alive,1
+552,Key Catcher,https://rickandmortyapi.com/api/character/avatar/552.jpeg,Alien,Female,unknown,Alive,1
+553,The Shapeshiftress,https://rickandmortyapi.com/api/character/avatar/553.jpeg,Alien,Female,unknown,Alive,1
+554,Heistotron,https://rickandmortyapi.com/api/character/avatar/554.jpeg,Robot,Genderless,Earth (Replacement Dimension),Dead,1
+555,Randotron,https://rickandmortyapi.com/api/character/avatar/555.jpeg,Robot,Genderless,Earth (Replacement Dimension),Dead,1
+556,Hephaestus,https://rickandmortyapi.com/api/character/avatar/556.jpeg,Mythological Creature,Male,Mount Olympus,Alive,1
+557,Ventriloquiver,https://rickandmortyapi.com/api/character/avatar/557.jpeg,Humanoid,Female,Plitzville Montana,Alive,1
+558,Elon Tusk,https://rickandmortyapi.com/api/character/avatar/558.jpeg,Human,Male,Earth (Tusk Dimension),Alive,1
+559,Gramuflackian Anchorman,https://rickandmortyapi.com/api/character/avatar/559.jpeg,Alien,Male,Gramuflack,Dead,1
+560,Gramuflackian General,https://rickandmortyapi.com/api/character/avatar/560.jpeg,Alien,Male,Gramuflack,Dead,1
+561,Netflix Executive,https://rickandmortyapi.com/api/character/avatar/561.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+562,Balthromaw,https://rickandmortyapi.com/api/character/avatar/562.jpeg,Mythological Creature,Male,Draygon,Alive,1
+563,The Wizard,https://rickandmortyapi.com/api/character/avatar/563.jpeg,Human,Male,Draygon,Dead,1
+564,Talking Cat,https://rickandmortyapi.com/api/character/avatar/564.jpeg,Animal,Male,unknown,Alive,1
+565,Debrah,https://rickandmortyapi.com/api/character/avatar/565.jpeg,Mythological Creature,Male,Draygon,Alive,1
+566,Debrah’s Partner,https://rickandmortyapi.com/api/character/avatar/566.jpeg,Mythological Creature,Male,Draygon,Alive,1
+567,Michael,https://rickandmortyapi.com/api/character/avatar/567.jpeg,Mythological Creature,Male,Draygon,Alive,1
+568,Slut Dragon,https://rickandmortyapi.com/api/character/avatar/568.jpeg,Mythological Creature,Male,Draygon,Alive,1
+569,Shadow Jacker,https://rickandmortyapi.com/api/character/avatar/569.jpeg,Mythological Creature,Male,Draygon,Alive,1
+570,Chachi,https://rickandmortyapi.com/api/character/avatar/570.jpeg,Alien,Male,unknown,Dead,1
+571,Slippy,https://rickandmortyapi.com/api/character/avatar/571.jpeg,Animal,Female,Earth (Replacement Dimension),Alive,1
+572,Robot Snake,https://rickandmortyapi.com/api/character/avatar/572.jpeg,Robot,Genderless,Snake Planet,unknown,1
+573,Snake Hitler,https://rickandmortyapi.com/api/character/avatar/573.jpeg,Animal,Male,Snake Planet,Dead,1
+574,Snake Lincoln,https://rickandmortyapi.com/api/character/avatar/574.jpeg,Animal,Male,Snake Planet,Dead,1
+575,Snake Resistance Robot,https://rickandmortyapi.com/api/character/avatar/575.jpeg,Robot,Genderless,Snake Planet,Dead,1
+576,Snake Linguist,https://rickandmortyapi.com/api/character/avatar/576.jpeg,Animal,Male,Snake Planet,unknown,1
+577,Snake Terminator,https://rickandmortyapi.com/api/character/avatar/577.jpeg,Robot,Male,Snake Planet,unknown,1
+578,Snake Soldier,https://rickandmortyapi.com/api/character/avatar/578.jpeg,Animal,Male,Snake Planet,Alive,1
+579,Snake with Legs,https://rickandmortyapi.com/api/character/avatar/579.jpeg,Animal,Male,Snake Planet,Alive,1
+580,Secret Service Snake,https://rickandmortyapi.com/api/character/avatar/580.jpeg,Animal,Male,Snake Planet,Alive,1
+581,Anchosnake,https://rickandmortyapi.com/api/character/avatar/581.jpeg,Animal,Male,Snake Planet,Alive,1
+582,Anchosnake,https://rickandmortyapi.com/api/character/avatar/582.jpeg,Animal,Female,Snake Planet,Alive,1
+583,80's snake,https://rickandmortyapi.com/api/character/avatar/583.jpeg,Animal,Male,Snake Planet,unknown,1
+584,Bar Customer,https://rickandmortyapi.com/api/character/avatar/584.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+585,Bartender,https://rickandmortyapi.com/api/character/avatar/585.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+586,PC Basketball Player,https://rickandmortyapi.com/api/character/avatar/586.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+587,Cavesnake,https://rickandmortyapi.com/api/character/avatar/587.jpeg,Animal,Male,Snake Planet,Dead,1
+588,Pet Shop Employee,https://rickandmortyapi.com/api/character/avatar/588.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+589,Snake Reporter,https://rickandmortyapi.com/api/character/avatar/589.jpeg,Animal,Male,Snake Planet,Alive,1
+590,High Pilot,https://rickandmortyapi.com/api/character/avatar/590.jpeg,Human,Male,Earth (Replacement Dimension),unknown,1
+591,High Pilot,https://rickandmortyapi.com/api/character/avatar/591.jpeg,Human,Male,Earth (Replacement Dimension),unknown,1
+592,Phoenixperson,https://rickandmortyapi.com/api/character/avatar/592.jpeg,Alien,Male,Bird World,Dead,3
+593,Tickets Please Guy,https://rickandmortyapi.com/api/character/avatar/593.jpeg,Human,Male,Story Train,Dead,1
+594,Floaty Bloody Man,https://rickandmortyapi.com/api/character/avatar/594.jpeg,Human,Male,Tickets Please Guy Nightmare,Dead,1
+595,Floaty Non-Gasm Brotherhood Member,https://rickandmortyapi.com/api/character/avatar/595.jpeg,Alien,Male,Tickets Please Guy Nightmare,Dead,1
+596,Floaty Non-Gasm Brotherhood Member Friend,https://rickandmortyapi.com/api/character/avatar/596.jpeg,Alien,Female,Tickets Please Guy Nightmare,Dead,1
+597,Abradolf Lincler,https://rickandmortyapi.com/api/character/avatar/597.jpeg,Human,Male,Story Train,Alive,1
+598,Biblesaurus,https://rickandmortyapi.com/api/character/avatar/598.jpeg,Animal,Male,Story Train,Alive,1
+599,Birdperson,https://rickandmortyapi.com/api/character/avatar/599.jpeg,Alien,Male,Story Train,Alive,1
+600,Cats Fan,https://rickandmortyapi.com/api/character/avatar/600.jpeg,Alien,Female,Story Train,Alive,1
+601,Christmas Storyteller,https://rickandmortyapi.com/api/character/avatar/601.jpeg,Alien,Male,Story Train,Alive,1
+602,Cookies Guy,https://rickandmortyapi.com/api/character/avatar/602.jpeg,Human,Male,Morty’s Story,Alive,1
+603,Crossy,https://rickandmortyapi.com/api/character/avatar/603.jpeg,unknown,Genderless,Ricks’s Story,Alive,1
+604,Female Scorpion,https://rickandmortyapi.com/api/character/avatar/604.jpeg,Animal,Female,Morty’s Story,Dead,1
+605,Floaty Bloody Man’s Daughter,https://rickandmortyapi.com/api/character/avatar/605.jpeg,Human,Female,Tickets Please Guy Nightmare,Dead,1
+606,Goomby,https://rickandmortyapi.com/api/character/avatar/606.jpeg,Alien,Male,Story Train,Alive,1
+607,Hairspray Fan,https://rickandmortyapi.com/api/character/avatar/607.jpeg,Alien,Female,Story Train,Alive,1
+608,Jesus Christ,https://rickandmortyapi.com/api/character/avatar/608.jpeg,Human,Male,Ricks’s Story,Alive,1
+609,Josh,https://rickandmortyapi.com/api/character/avatar/609.jpeg,Human,Male,Tickets Please Guy Nightmare,Dead,1
+610,Josh's Sister,https://rickandmortyapi.com/api/character/avatar/610.jpeg,Human,Female,Tickets Please Guy Nightmare,Dead,1
+611,Leah,https://rickandmortyapi.com/api/character/avatar/611.jpeg,unknown,Female,Story Train,Alive,1
+612,Marcus,https://rickandmortyapi.com/api/character/avatar/612.jpeg,Human,Male,Story Train,Alive,1
+613,Mike Johnson,https://rickandmortyapi.com/api/character/avatar/613.jpeg,Human,Male,Morty’s Story,Alive,1
+614,Mr. Celery & Friends,https://rickandmortyapi.com/api/character/avatar/614.jpeg,unknown,Genderless,Ricks’s Story,Alive,1
+615,Musical Fan,https://rickandmortyapi.com/api/character/avatar/615.jpeg,Alien,Male,Story Train,Alive,1
+616,Phantom of the Opera Fan,https://rickandmortyapi.com/api/character/avatar/616.jpeg,Alien,Male,Story Train,Alive,1
+617,Phoenixperson,https://rickandmortyapi.com/api/character/avatar/617.jpeg,Alien,Male,Story Train,Alive,1
+618,Private Smith,https://rickandmortyapi.com/api/character/avatar/618.jpeg,Human,Male,Story Train,unknown,1
+619,Professor Sanchez,https://rickandmortyapi.com/api/character/avatar/619.jpeg,Human,Male,Story Train,Dead,1
+620,Ramamama Lord,https://rickandmortyapi.com/api/character/avatar/620.jpeg,Human,Male,Story Train,Alive,1
+621,Ruth Bader Ginsburg,https://rickandmortyapi.com/api/character/avatar/621.jpeg,Human,Female,Morty’s Story,Alive,1
+622,Sarge,https://rickandmortyapi.com/api/character/avatar/622.jpeg,Human,Male,Story Train,Alive,1
+623,Shrek The Musical Fan,https://rickandmortyapi.com/api/character/avatar/623.jpeg,Alien,Male,Story Train,Alive,1
+624,Snuffles,https://rickandmortyapi.com/api/character/avatar/624.jpeg,Animal,Male,Story Train,Alive,1
+625,Storylord,https://rickandmortyapi.com/api/character/avatar/625.jpeg,Human,Male,Story Train,Alive,1
+626,Tammy Guetermann,https://rickandmortyapi.com/api/character/avatar/626.jpeg,Human,Female,Story Train,Alive,1
+627,The Concept of Time,https://rickandmortyapi.com/api/character/avatar/627.jpeg,unknown,Genderless,Story Train,Alive,1
+628,Beth Smith,https://rickandmortyapi.com/api/character/avatar/628.jpeg,Human,Female,Morty’s Story,Alive,1
+629,Summer Smith,https://rickandmortyapi.com/api/character/avatar/629.jpeg,Human,Female,Morty’s Story,Alive,1
+630,Morty Smith,https://rickandmortyapi.com/api/character/avatar/630.jpeg,Human,Male,Story Train,Alive,1
+631,Rick Sanchez,https://rickandmortyapi.com/api/character/avatar/631.jpeg,Human,Male,Story Train,Alive,1
+632,Train Cop,https://rickandmortyapi.com/api/character/avatar/632.jpeg,Human,Male,Story Train,Dead,1
+633,Train Cops,https://rickandmortyapi.com/api/character/avatar/633.jpeg,Human,Female,Story Train,Alive,1
+634,Train Cops Instructor,https://rickandmortyapi.com/api/character/avatar/634.jpeg,Human,Male,Story Train,Dead,1
+635,Darth Poopybutthole,https://rickandmortyapi.com/api/character/avatar/635.jpeg,Poopybutthole,Male,Ricks’s Story,Alive,1
+636,Evil Morty,https://rickandmortyapi.com/api/character/avatar/636.jpeg,Human,Male,Ricks’s Story,Alive,1
+637,Morty’s Disguise,https://rickandmortyapi.com/api/character/avatar/637.jpeg,Human,Female,Story Train,Alive,1
+638,Rick’s Disguise,https://rickandmortyapi.com/api/character/avatar/638.jpeg,Human,Male,Story Train,Alive,1
+639,Uncle Nibbles,https://rickandmortyapi.com/api/character/avatar/639.jpeg,Alien,Male,Tickets Please Guy Nightmare,Dead,1
+640,Angry Glorzo,https://rickandmortyapi.com/api/character/avatar/640.jpeg,Alien,Male,Glorzo Asteroid,Dead,1
+641,Bruce,https://rickandmortyapi.com/api/character/avatar/641.jpeg,Alien,Male,Glorzo Asteroid,Dead,1
+642,Council of Glorzos Member,https://rickandmortyapi.com/api/character/avatar/642.jpeg,Alien,Male,Glorzo Asteroid,Dead,1
+643,Council of Glorzos Member,https://rickandmortyapi.com/api/character/avatar/643.jpeg,Alien,Male,Glorzo Asteroid,Dead,1
+644,Old Glorzo,https://rickandmortyapi.com/api/character/avatar/644.jpeg,Alien,Male,Glorzo Asteroid,Dead,1
+645,Shane,https://rickandmortyapi.com/api/character/avatar/645.jpeg,Alien,Male,Glorzo Asteroid,unknown,1
+646,Steve,https://rickandmortyapi.com/api/character/avatar/646.jpeg,Alien,Male,Glorzo Asteroid,Dead,1
+647,Troy,https://rickandmortyapi.com/api/character/avatar/647.jpeg,Alien,Male,Glorzo Asteroid,Dead,1
+648,Crystal Dealers Boss,https://rickandmortyapi.com/api/character/avatar/648.jpeg,Alien,Male,unknown,Dead,1
+649,Crystal Dealer,https://rickandmortyapi.com/api/character/avatar/649.jpeg,Alien,Male,unknown,Dead,1
+650,Crystal Dealer,https://rickandmortyapi.com/api/character/avatar/650.jpeg,Alien,Male,unknown,Dead,1
+651,Crystal Dealer,https://rickandmortyapi.com/api/character/avatar/651.jpeg,Alien,Male,unknown,Dead,1
+652,SWAT Officer,https://rickandmortyapi.com/api/character/avatar/652.jpeg,Human,Male,Merged Universe,Dead,1
+653,Plane Crash Survivor,https://rickandmortyapi.com/api/character/avatar/653.jpeg,Human,Female,Near-Duplicate Reality,unknown,1
+654,Plane Crash Survivor,https://rickandmortyapi.com/api/character/avatar/654.jpeg,Human,Male,Near-Duplicate Reality,unknown,1
+655,Heroine Keith,https://rickandmortyapi.com/api/character/avatar/655.jpeg,Human,Male,Near-Duplicate Reality,Alive,1
+656,Impervious to Acid SWAT Officer,https://rickandmortyapi.com/api/character/avatar/656.jpeg,Human,Male,Merged Universe,Dead,1
+657,Johnny Carson,https://rickandmortyapi.com/api/character/avatar/657.jpeg,Human,Male,Merged Universe,Alive,1
+658,Sonia Sotomayor,https://rickandmortyapi.com/api/character/avatar/658.jpeg,Human,Female,Merged Universe,Alive,1
+659,Morty’s Father-in-law,https://rickandmortyapi.com/api/character/avatar/659.jpeg,Human,Male,Near-Duplicate Reality,Alive,1
+660,Morty’s Mother-in-law,https://rickandmortyapi.com/api/character/avatar/660.jpeg,Human,Female,Near-Duplicate Reality,Alive,1
+661,Morty’s Girlfriend,https://rickandmortyapi.com/api/character/avatar/661.jpeg,Human,Female,Near-Duplicate Reality,Alive,1
+662,Gaia,https://rickandmortyapi.com/api/character/avatar/662.jpeg,unknown,Female,Gaia,Alive,1
+663,Reggie,https://rickandmortyapi.com/api/character/avatar/663.jpeg,Mythological Creature,Male,Mount Olympus,Dead,1
+664,Ticktock,https://rickandmortyapi.com/api/character/avatar/664.jpeg,Humanoid,Genderless,Gaia,unknown,1
+665,Florflock,https://rickandmortyapi.com/api/character/avatar/665.jpeg,Humanoid,Genderless,Gaia,Alive,1
+666,Squeeb,https://rickandmortyapi.com/api/character/avatar/666.jpeg,Humanoid,Genderless,Gaia,Alive,1
+667,Defiance Beth,https://rickandmortyapi.com/api/character/avatar/667.jpeg,Human,Female,Earth (Replacement Dimension),Alive,2
+668,Defiance Squanchette,https://rickandmortyapi.com/api/character/avatar/668.jpeg,Alien,Female,Planet Squanch,Alive,1
+669,Defiance Doctor,https://rickandmortyapi.com/api/character/avatar/669.jpeg,Alien,Male,unknown,Alive,1
+670,New Improved Galactic Federation Guard,https://rickandmortyapi.com/api/character/avatar/670.jpeg,Alien,Male,Gromflom Prime,Dead,1
+671,New Improved Galactic Federation Guard,https://rickandmortyapi.com/api/character/avatar/671.jpeg,Alien,Male,Gromflom Prime,Dead,1
+672,Mr. Nimbus,https://rickandmortyapi.com/api/character/avatar/672.jpeg,Mythological Creature,Male,The Ocean,Alive,1
+673,Hoovy,https://rickandmortyapi.com/api/character/avatar/673.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+674,Bova,https://rickandmortyapi.com/api/character/avatar/674.jpeg,Humanoid,Female,Narnia Dimension,Dead,1
+675,Japheth,https://rickandmortyapi.com/api/character/avatar/675.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+676,Japheth's Middle Son,https://rickandmortyapi.com/api/character/avatar/676.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+677,Japheth's Eldest Son,https://rickandmortyapi.com/api/character/avatar/677.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+678,Japheth's Youngest Son,https://rickandmortyapi.com/api/character/avatar/678.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+679,Japheth's Grandson,https://rickandmortyapi.com/api/character/avatar/679.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+680,Adam,https://rickandmortyapi.com/api/character/avatar/680.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+681,Adam's Mother,https://rickandmortyapi.com/api/character/avatar/681.jpeg,Humanoid,Female,Narnia Dimension,Dead,1
+682,Warlock,https://rickandmortyapi.com/api/character/avatar/682.jpeg,Humanoid,Male,Narnia Dimension,Dead,1
+683,Evolved Narnian,https://rickandmortyapi.com/api/character/avatar/683.jpeg,Humanoid,Male,Narnia Dimension,Alive,1
+684,Mr. Nimbus Secretary,https://rickandmortyapi.com/api/character/avatar/684.jpeg,Animal,Female,The Ocean,Alive,1
+685,Evolved Narnian Disguised as Morty,https://rickandmortyapi.com/api/character/avatar/685.jpeg,Humanoid,Male,Narnia Dimension,Alive,1
+686,Mr. Nimbus' Squid,https://rickandmortyapi.com/api/character/avatar/686.jpeg,Animal,Male,The Ocean,Dead,1
+687,Scarecrow Rick,https://rickandmortyapi.com/api/character/avatar/687.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+688,Scarecrow Summer,https://rickandmortyapi.com/api/character/avatar/688.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+689,Scarecrow Jerry,https://rickandmortyapi.com/api/character/avatar/689.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+690,Scarecrow Morty,https://rickandmortyapi.com/api/character/avatar/690.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+691,Scarecrow Beth,https://rickandmortyapi.com/api/character/avatar/691.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+692,Glockenspiel Jerry,https://rickandmortyapi.com/api/character/avatar/692.jpeg,Robot,Male,Earth (Replacement Dimension),Alive,1
+693,Glockenspiel Beth,https://rickandmortyapi.com/api/character/avatar/693.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+694,Glockenspiel Rick,https://rickandmortyapi.com/api/character/avatar/694.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+695,Glockenspiel Summer,https://rickandmortyapi.com/api/character/avatar/695.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+696,Glockenspiel Morty,https://rickandmortyapi.com/api/character/avatar/696.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+697,Wicker Beth,https://rickandmortyapi.com/api/character/avatar/697.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+698,Wicker Rick,https://rickandmortyapi.com/api/character/avatar/698.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+699,Wicker Morty,https://rickandmortyapi.com/api/character/avatar/699.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+700,Wicker Summer,https://rickandmortyapi.com/api/character/avatar/700.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+701,Metal Rick,https://rickandmortyapi.com/api/character/avatar/701.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+702,Gun Brain Rick,https://rickandmortyapi.com/api/character/avatar/702.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+703,Mr. Always Wants to be Hunted,https://rickandmortyapi.com/api/character/avatar/703.jpeg,Poopybutthole,Male,unknown,Alive,1
+704,Squid Costume Beth,https://rickandmortyapi.com/api/character/avatar/704.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+705,Squid Costume Jerry,https://rickandmortyapi.com/api/character/avatar/705.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+706,Squid Costume Morty,https://rickandmortyapi.com/api/character/avatar/706.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+707,Squid Costume Rick,https://rickandmortyapi.com/api/character/avatar/707.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+708,Squid Costume Summer,https://rickandmortyapi.com/api/character/avatar/708.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+709,Dracula,https://rickandmortyapi.com/api/character/avatar/709.jpeg,Mythological Creature,Male,Interdimensional Cable,Alive,1
+710,Steve,https://rickandmortyapi.com/api/character/avatar/710.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+711,When Wolf,https://rickandmortyapi.com/api/character/avatar/711.jpeg,Mythological Creature,Male,Interdimensional Cable,Alive,1
+712,Too Cute to Murder Beth,https://rickandmortyapi.com/api/character/avatar/712.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+713,Too Cute to Murder Rick,https://rickandmortyapi.com/api/character/avatar/713.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+714,Too Cute to Murder Jerry,https://rickandmortyapi.com/api/character/avatar/714.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+715,Too Cute to Murder Morty,https://rickandmortyapi.com/api/character/avatar/715.jpeg,Robot,Male,Earth (Replacement Dimension),Dead,1
+716,Too Cute to Murder Summer,https://rickandmortyapi.com/api/character/avatar/716.jpeg,Robot,Female,Earth (Replacement Dimension),Dead,1
+717,Planetina,https://rickandmortyapi.com/api/character/avatar/717.jpeg,Humanoid,Female,Elemental Rings,Alive,1
+718,Daphne,https://rickandmortyapi.com/api/character/avatar/718.jpeg,Alien,Female,Morglutz,Alive,1
+719,Diesel Weasel,https://rickandmortyapi.com/api/character/avatar/719.jpeg,Animal,Male,Earth (Replacement Dimension),Alive,1
+720,Eddie,https://rickandmortyapi.com/api/character/avatar/720.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+721,Xing Ho,https://rickandmortyapi.com/api/character/avatar/721.jpeg,Human,Female,Earth (Replacement Dimension),Dead,1
+722,Air Tina-Teer,https://rickandmortyapi.com/api/character/avatar/722.jpeg,Human,Female,Earth (Replacement Dimension),Dead,1
+723,Water Tina-Teer,https://rickandmortyapi.com/api/character/avatar/723.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+724,Planetina Buyer,https://rickandmortyapi.com/api/character/avatar/724.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+725,Tony Galopagus,https://rickandmortyapi.com/api/character/avatar/725.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+726,Sticky,https://rickandmortyapi.com/api/character/avatar/726.jpeg,unknown,Male,Morty,Alive,1
+727,Professor Shabooboo,https://rickandmortyapi.com/api/character/avatar/727.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+728,Sperm Queen,https://rickandmortyapi.com/api/character/avatar/728.jpeg,unknown,Female,Morty,Dead,1
+729,CHUD King,https://rickandmortyapi.com/api/character/avatar/729.jpeg,Animal,Male,Earth (Replacement Dimension),Alive,1
+730,Princess Ponietta,https://rickandmortyapi.com/api/character/avatar/730.jpeg,Animal,Female,Earth (Replacement Dimension),Alive,1
+731,Naruto Smith,https://rickandmortyapi.com/api/character/avatar/731.jpeg,Humanoid,Male,Earth (Replacement Dimension),Alive,2
+732,Blazen,https://rickandmortyapi.com/api/character/avatar/732.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+733,Kathy Ireland,https://rickandmortyapi.com/api/character/avatar/733.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+734,Amazing Johnathan,https://rickandmortyapi.com/api/character/avatar/734.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+735,Foal Sanchez,https://rickandmortyapi.com/api/character/avatar/735.jpeg,Humanoid,unknown,Earth (Replacement Dimension),Alive,1
+736,Spaceman,https://rickandmortyapi.com/api/character/avatar/736.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+737,Cirque du Soleil Zumanity Member,https://rickandmortyapi.com/api/character/avatar/737.jpeg,Human,Female,Near-Duplicate Reality,Alive,1
+738,Cirque du Soleil Zumanity Member,https://rickandmortyapi.com/api/character/avatar/738.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+739,Cirque du Soleil Zumanity Member,https://rickandmortyapi.com/api/character/avatar/739.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+740,Cirque du Soleil Zumanity Member,https://rickandmortyapi.com/api/character/avatar/740.jpeg,Human,Female,Earth (Replacement Dimension),Dead,1
+741,Cirque du Soleil Zumanity Member,https://rickandmortyapi.com/api/character/avatar/741.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+742,Bruce Chutback,https://rickandmortyapi.com/api/character/avatar/742.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+743,Alyson Hannigan,https://rickandmortyapi.com/api/character/avatar/743.jpeg,Alien,Female,unknown,Dead,1
+744,Cenobite,https://rickandmortyapi.com/api/character/avatar/744.jpeg,Mythological Creature,Male,Hell,unknown,1
+745,Cenobite,https://rickandmortyapi.com/api/character/avatar/745.jpeg,Mythological Creature,Female,Hell,unknown,1
+746,Cenobite,https://rickandmortyapi.com/api/character/avatar/746.jpeg,Mythological Creature,Male,Hell,unknown,1
+747,Cenobite,https://rickandmortyapi.com/api/character/avatar/747.jpeg,Mythological Creature,Male,Hell,unknown,1
+748,Cenobite,https://rickandmortyapi.com/api/character/avatar/748.jpeg,Mythological Creature,Male,Hell,unknown,1
+749,Coat Rack Head,https://rickandmortyapi.com/api/character/avatar/749.jpeg,Mythological Creature,Male,Hell,unknown,1
+750,Mousetrap Nipples,https://rickandmortyapi.com/api/character/avatar/750.jpeg,Mythological Creature,Male,Hell,unknown,1
+751,Changeformer,https://rickandmortyapi.com/api/character/avatar/751.jpeg,Robot,Male,Space Tahoe,Dead,1
+752,Changeformer,https://rickandmortyapi.com/api/character/avatar/752.jpeg,Robot,Male,Space Tahoe,Dead,1
+753,Space Cruiser,https://rickandmortyapi.com/api/character/avatar/753.jpeg,Robot,Female,Earth (Replacement Dimension),Alive,2
+754,Coop,https://rickandmortyapi.com/api/character/avatar/754.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+755,Dwayne,https://rickandmortyapi.com/api/character/avatar/755.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+756,Franklin D. Roosevelt,https://rickandmortyapi.com/api/character/avatar/756.jpeg,Humanoid,Male,Earth (Replacement Dimension),Dead,1
+757,President's General,https://rickandmortyapi.com/api/character/avatar/757.jpeg,Human,Male,Earth (Replacement Dimension),Alive,2
+758,Giant Assassin Hidden in the Statue of Liberty,https://rickandmortyapi.com/api/character/avatar/758.jpeg,Robot,Female,France,Alive,1
+759,Turkey Morty,https://rickandmortyapi.com/api/character/avatar/759.jpeg,Animal,Male,Earth (Replacement Dimension),Alive,1
+760,Turkey Rick,https://rickandmortyapi.com/api/character/avatar/760.jpeg,Animal,Male,Earth (Replacement Dimension),Alive,1
+761,Turkey President Curtis,https://rickandmortyapi.com/api/character/avatar/761.jpeg,Animal,Male,Earth (Replacement Dimension),Alive,1
+762,Martínez,https://rickandmortyapi.com/api/character/avatar/762.jpeg,Animal,Male,Earth (Replacement Dimension),Dead,1
+763,Marvin,https://rickandmortyapi.com/api/character/avatar/763.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+764,Jackey,https://rickandmortyapi.com/api/character/avatar/764.jpeg,Human,Male,Earth (Replacement Dimension),Alive,1
+765,Native Alien,https://rickandmortyapi.com/api/character/avatar/765.jpeg,Alien,Male,unknown,Alive,1
+766,Pilgrim Alien,https://rickandmortyapi.com/api/character/avatar/766.jpeg,Alien,Male,unknown,Alive,1
+767,President Turkey,https://rickandmortyapi.com/api/character/avatar/767.jpeg,Humanoid,Male,Earth (Replacement Dimension),Dead,1
+768,Mary-Lou,https://rickandmortyapi.com/api/character/avatar/768.jpeg,Human,Female,Earth (Replacement Dimension),Alive,1
+769,Big Fat rick,https://rickandmortyapi.com/api/character/avatar/769.jpeg,Human,Male,unknown,unknown,1
+770,Hothead Rick,https://rickandmortyapi.com/api/character/avatar/770.jpeg,Human,Male,unknown,Dead,1
+771,Ricardo Montoya,https://rickandmortyapi.com/api/character/avatar/771.jpeg,Human,Male,unknown,unknown,1
+772,Wrap-it-up Little Rick,https://rickandmortyapi.com/api/character/avatar/772.jpeg,Human,Male,unknown,Dead,1
+773,Yo-yo Rick,https://rickandmortyapi.com/api/character/avatar/773.jpeg,Human,Male,unknown,unknown,1
+774,Voiceoverian,https://rickandmortyapi.com/api/character/avatar/774.jpeg,Alien,unknown,unknown,Dead,1
+775,Voiceoverian,https://rickandmortyapi.com/api/character/avatar/775.jpeg,Alien,unknown,unknown,Dead,1
+776,Gotron Pilot,https://rickandmortyapi.com/api/character/avatar/776.jpeg,Human,Male,unknown,Dead,1
+777,Gotron Pilot,https://rickandmortyapi.com/api/character/avatar/777.jpeg,Human,Male,unknown,Dead,1
+778,Gotron Pilot,https://rickandmortyapi.com/api/character/avatar/778.jpeg,Human,Male,unknown,Dead,1
+779,Young Memory Rick,https://rickandmortyapi.com/api/character/avatar/779.jpeg,Human,Male,Birdperson's Consciousness,Alive,1
+780,Memory Tammy,https://rickandmortyapi.com/api/character/avatar/780.jpeg,Human,Female,Birdperson's Consciousness,Dead,1
+781,Rick's Garage,https://rickandmortyapi.com/api/character/avatar/781.jpeg,Robot,Female,Earth (Replacement Dimension),Alive,1
+782,Memory Squanchy,https://rickandmortyapi.com/api/character/avatar/782.jpeg,Alien,Male,Birdperson's Consciousness,Dead,1
+783,Memory Rick,https://rickandmortyapi.com/api/character/avatar/783.jpeg,Human,Male,Birdperson's Consciousness,Dead,1
+784,Memory Rick,https://rickandmortyapi.com/api/character/avatar/784.jpeg,Human,Male,Birdperson's Consciousness,Dead,1
+785,Memory Geardude,https://rickandmortyapi.com/api/character/avatar/785.jpeg,Alien,Male,Birdperson's Consciousness,Dead,1
+786,Birdperson & Tammy's Child,https://rickandmortyapi.com/api/character/avatar/786.jpeg,Humanoid,Female,Earth (Replacement Dimension),Alive,1
+787,Two Crows,https://rickandmortyapi.com/api/character/avatar/787.jpeg,Animal,unknown,Earth (Replacement Dimension),Alive,2
+788,Mr. Cookie President,https://rickandmortyapi.com/api/character/avatar/788.jpeg,Alien,Male,unknown,Alive,1
+789,Nick,https://rickandmortyapi.com/api/character/avatar/789.jpeg,Human,Male,Earth (Replacement Dimension),Dead,1
+790,Harold (Garbage Goober),https://rickandmortyapi.com/api/character/avatar/790.jpeg,Alien,Male,unknown,Alive,1
+791,Harold's Wife,https://rickandmortyapi.com/api/character/avatar/791.jpeg,Alien,Female,unknown,Alive,1
+792,Alien Crow,https://rickandmortyapi.com/api/character/avatar/792.jpeg,Alien,Male,Avian Planet,Dead,1
+793,Alien Crow,https://rickandmortyapi.com/api/character/avatar/793.jpeg,Alien,Female,Avian Planet,Dead,1
+794,Samansky,https://rickandmortyapi.com/api/character/avatar/794.jpeg,Alien,Male,Normal Size Bug Dimension,Dead,1
+795,Palicki,https://rickandmortyapi.com/api/character/avatar/795.jpeg,Alien,Male,Normal Size Bug Dimension,Alive,1
+796,Sarge,https://rickandmortyapi.com/api/character/avatar/796.jpeg,Alien,Male,Normal Size Bug Dimension,Alive,1
+797,Slartivartian,https://rickandmortyapi.com/api/character/avatar/797.jpeg,Alien,Male,Slartivart,Dead,1
+798,Ferkusian,https://rickandmortyapi.com/api/character/avatar/798.jpeg,Alien,Male,Ferkus 9,Alive,1
+799,Morglutzian,https://rickandmortyapi.com/api/character/avatar/799.jpeg,Alien,Male,Morglutz,Dead,1
+800,Super Turkey,https://rickandmortyapi.com/api/character/avatar/800.jpeg,Humanoid,Male,Earth (Replacement Dimension),Dead,1
+801,7+7 Years Old Morty,https://rickandmortyapi.com/api/character/avatar/801.jpeg,Human,Male,Citadel of Ricks,unknown,1
+802,26 Years Old Morty,https://rickandmortyapi.com/api/character/avatar/802.jpeg,Human,Male,Citadel of Ricks,Dead,1
+803,40 Years Old Morty,https://rickandmortyapi.com/api/character/avatar/803.jpeg,Human,Male,Citadel of Ricks,unknown,1
+804,Andy,https://rickandmortyapi.com/api/character/avatar/804.jpeg,Human,Male,unknown,unknown,1
+805,Baby Mouse Skin Morty,https://rickandmortyapi.com/api/character/avatar/805.jpeg,Human,Male,Citadel of Ricks,Alive,1
+806,Metaphor for Capitalism,https://rickandmortyapi.com/api/character/avatar/806.jpeg,Humanoid,Male,Citadel of Ricks,Dead,1
+807,Beth Sanchez,https://rickandmortyapi.com/api/character/avatar/807.jpeg,Human,Female,Earth (C-137),Dead,1
+808,Crow Scare,https://rickandmortyapi.com/api/character/avatar/808.jpeg,Humanoid,Male,Rick and Two Crows Planet,Alive,1
+809,Pussifer,https://rickandmortyapi.com/api/character/avatar/809.jpeg,Animal,Male,Rick and Two Crows Planet,Dead,1
+810,Stan Lee Rick,https://rickandmortyapi.com/api/character/avatar/810.jpeg,Human,Male,unknown,unknown,1
+811,Re-Build-a-Morty Morty,https://rickandmortyapi.com/api/character/avatar/811.jpeg,Human,Male,unknown,unknown,1
+812,Deformed Morty,https://rickandmortyapi.com/api/character/avatar/812.jpeg,Humanoid,Male,Citadel of Ricks,Dead,1
+813,Crow Horse,https://rickandmortyapi.com/api/character/avatar/813.jpeg,Robot,unknown,Rick and Two Crows Planet,Alive,1
+814,Bald Rick,https://rickandmortyapi.com/api/character/avatar/814.jpeg,Human,Male,unknown,Dead,1
+815,Punk Rick,https://rickandmortyapi.com/api/character/avatar/815.jpeg,Human,Male,unknown,Dead,1
+816,Party Rick,https://rickandmortyapi.com/api/character/avatar/816.jpeg,Human,Male,unknown,Dead,1
+817,Scar Rick,https://rickandmortyapi.com/api/character/avatar/817.jpeg,Human,Male,unknown,Dead,1
+818,Long Hair Rick,https://rickandmortyapi.com/api/character/avatar/818.jpeg,Human,Male,unknown,unknown,1
+819,Redhead Rick,https://rickandmortyapi.com/api/character/avatar/819.jpeg,Human,Male,unknown,Dead,1
+820,Redhead Morty,https://rickandmortyapi.com/api/character/avatar/820.jpeg,Human,Male,unknown,Dead,1
+821,Gotron,https://rickandmortyapi.com/api/character/avatar/821.jpeg,Robot,Genderless,Earth (Replacement Dimension),unknown,1
+822,Young Jerry,https://rickandmortyapi.com/api/character/avatar/822.jpeg,Human,Male,Earth (Unknown dimension),unknown,1
+823,Young Beth,https://rickandmortyapi.com/api/character/avatar/823.jpeg,Human,Female,Earth (Unknown dimension),unknown,1
+824,Young Beth,https://rickandmortyapi.com/api/character/avatar/824.jpeg,Human,Female,Earth (Unknown dimension),unknown,1
+825,Young Jerry,https://rickandmortyapi.com/api/character/avatar/825.jpeg,Human,Male,Earth (Unknown dimension),unknown,1
+826,Butter Robot,https://rickandmortyapi.com/api/character/avatar/826.jpeg,Robot,Genderless,Earth (Replacement Dimension),Alive,1
