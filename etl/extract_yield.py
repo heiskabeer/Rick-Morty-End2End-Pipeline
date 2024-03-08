@@ -7,7 +7,6 @@ from typing import Dict, Generator, List
 
 import pandas as pd
 import requests
-from annotated_types import Ge
 from prefect import flow, get_run_logger, task
 from requests.exceptions import RequestException
 
@@ -32,7 +31,7 @@ def get_pages() -> int:
 
 
 @task
-def get_all_characters_data(pages: int) -> Generator[Dict]:
+def get_all_characters_data(pages: int) -> Generator[Dict[str, any]]:
     try:
         logging = get_run_logger()
         for x in range(1, (pages) + 1):
@@ -92,7 +91,7 @@ def parse_data(all_characters_data: Generator[Dict[str, any]]) -> List[Dict[str,
 def convert_to_csv(character_lists: List) -> None:
     df = pd.DataFrame(character_lists)
     # output_path = Path(__file__).parent.parent.resolve().joinpath('data', 'output', 'rick.csv')
-    output_path = Path(r'C:\Users\hp\Documents\Data\DE-Projects\rick-s3-lamda-snowflake\data\output').joinpath('ricky.csv')
+    output_path = Path(r'C:\Users\hp\Docu`ments\Data\DE-Projects\rick-s3-lamda-snowflake\data\output').joinpath('ricky.csv')
     df.to_csv(output_path, index=False,)
 
 
