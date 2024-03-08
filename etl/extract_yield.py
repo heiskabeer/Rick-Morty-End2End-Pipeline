@@ -1,18 +1,22 @@
-import requests
-from requests.exceptions import RequestException
-import json
+import imp
 import time
-import pandas as pd
+from ast import List
 # import logging
 from pathlib import Path
-from prefect import task, flow, get_run_logger
+from typing import Dict, Generator, List
+
+import pandas as pd
+import requests
+from annotated_types import Ge
+from prefect import flow, get_run_logger, task
+from requests.exceptions import RequestException
 
 # logging.basicConfig(level=logging.INFO)
 # Replace python logging with PREFECTS
 
 
 @task
-def get_pages():
+def get_pages() -> int:
     try:
         logging = get_run_logger()
         url = f'https://rickandmortyapi.com/api/character/'
@@ -28,7 +32,7 @@ def get_pages():
 
 
 @task
-def get_all_characters_data(pages):
+def get_all_characters_data(pages: int) -> Generator[Dict]:
     try:
         logging = get_run_logger()
         for x in range(1, (pages) + 1):
@@ -47,7 +51,7 @@ def get_all_characters_data(pages):
 
             
 @task
-def parse_data(all_characters_data):
+def parse_data(all_characters_data: Generator[Dict[str, any]]) -> List[Dict[str, any]]:
 
     logging = get_run_logger()
 
@@ -85,7 +89,7 @@ def parse_data(all_characters_data):
 
 
 @task
-def convert_to_csv(character_lists):
+def convert_to_csv(character_lists: List) -> None:
     df = pd.DataFrame(character_lists)
     # output_path = Path(__file__).parent.parent.resolve().joinpath('data', 'output', 'rick.csv')
     output_path = Path(r'C:\Users\hp\Documents\Data\DE-Projects\rick-s3-lamda-snowflake\data\output').joinpath('ricky.csv')

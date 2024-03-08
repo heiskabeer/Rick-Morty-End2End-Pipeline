@@ -1,12 +1,11 @@
 import os
-import sys
-import boto3
-import botocore
 # import logging
 from pathlib import Path
-from dotenv import load_dotenv
-from prefect import get_run_logger, flow, task
 
+import boto3
+import botocore
+from dotenv import load_dotenv
+from prefect import flow, get_run_logger, task
 
 # logging.basicConfig(level=logging.INFO)
 
@@ -24,7 +23,7 @@ TRANSFORMED_BUCKET_NAME = os.getenv('transformed_bucket_name')
 
 
 @task(retries=3, retry_delay_seconds=5, log_prints=True)
-def connect_to_s3():
+def connect_to_s3() -> boto3.client:
     try:
         logging = get_run_logger()
         session = boto3.Session(
@@ -44,7 +43,7 @@ def connect_to_s3():
 
 
 @task
-def create_bucket_if_not_exist(conn, BUCKET_NAME):
+def create_bucket_if_not_exist(conn: boto3.client, BUCKET_NAME: str) -> None:
     try:
         logging = get_run_logger()
         conn.head_bucket(Bucket=BUCKET_NAME)
@@ -61,7 +60,7 @@ def create_bucket_if_not_exist(conn, BUCKET_NAME):
 
 
 @task
-def upload_to_s3(conn, file_path, bucket, object_name):
+def upload_to_s3(conn: boto3.client, file_path:str, bucket:str, object_name: str=None) -> None:
     logging = get_run_logger()
     if object_name is None:
         object_name = os.path.basename(file_path)
